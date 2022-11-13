@@ -4,7 +4,7 @@
 
 I wrote lots of private repositories which I can not publicate. Sorry for the inconviniance :anguished:
 
-### <i>Preferances</i>
+### <i>Preferences</i>
 :heart: .NET (C#)<br/>
 :blue_heart: TypeScript<br/>
 :purple_heart: BootStrap<br/>
