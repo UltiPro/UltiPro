@@ -60,7 +60,7 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
         <li>Xamarin [:x:]</li>
         <li>API [:x:]</li>
      </ul>
-  <li>JAVA [:x:]</li>
+  <li>JAVA [:heavy_check_mark:]</li>
      <ul>
         <li>Maven [:x:]</li>
         <li>JavaFX [:x:]</li>
