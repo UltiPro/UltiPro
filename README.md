@@ -11,10 +11,10 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
   
 ### Socials
 
-<a href="https://www.facebook.com/patryk.ulti/" target="_blank"><img src="./icons/facebook.png" width="50"/></a>
-<a href="https://www.instagram.com/ulti_pl/" target="_blank"><img src="./icons/instagram.png" width="50"/></a>
-<a href="https://discordapp.com/users/Ulti#8198" target="_blank"><img src="./icons/discord.png" width="50"/></a>
-<a href="https://steamcommunity.com/id/ulti_pro/" target="_blank"><img src="./icons/steam.png" width="50"/></a>
+<a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.png" width="50"/></a>
+<a href="https://www.instagram.com/ulti_pl/"><img src="./icons/instagram.png" width="50"/></a>
+<a href="https://discordapp.com/users/Ulti#8198"><img src="./icons/discord.png" width="50"/></a>
+<a href="https://steamcommunity.com/id/ulti_pro/"><img src="./icons/steam.png" width="50"/></a>
 
 ### Languages
 
