@@ -8,19 +8,12 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
 :heart: .NET (C#)<br/>
 :blue_heart: TypeScript<br/>
 :purple_heart: BootStrap<br/>
-
-### Contact
-
-<ul>
-  <li>ultiprogames@gmail.com</li>
-  <li>ultiprogames@onet.pl</li>
-</ul>
   
 ### Socials
 
 <a href="https://www.facebook.com/patryk.ulti/" target="blank"><img src="./icons/facebook.png" width="50"/></a>
 <a href="https://www.instagram.com/ulti_pl/" target="blank"><img src="./icons/instagram.png" width="50"/></a>
-<a href="discordapp.com/users/Ulti#8198" target="blank"><img src="./icons/discord.png" width="50"/></a>
+<a href="https://discordapp.com/users/Ulti#8198" target="blank"><img src="./icons/discord.png" width="50"/></a>
 <a href="https://steamcommunity.com/id/ulti_pro/" target="blank"><img src="./icons/steam.png" width="50"/></a>
 
 ### Languages
