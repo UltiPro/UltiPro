@@ -4,19 +4,19 @@
 
 I wrote lots of private repositories which I can not publicate. Sorry for the inconviniance :anguished:
 
-### Preferances
+### <i>Preferances</i>
 :heart: .NET (C#)<br/>
 :blue_heart: TypeScript<br/>
 :purple_heart: BootStrap<br/>
   
-### Socials
+### <i>Socials</i>
 
 <a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.png" width="50"/></a>
 <a href="https://www.instagram.com/ulti_pl/"><img src="./icons/instagram.png" width="50"/></a>
 <a href="https://discordapp.com/users/Ulti#8198"><img src="./icons/discord.png" width="50"/></a>
 <a href="https://steamcommunity.com/id/ulti_pro/"><img src="./icons/steam.png" width="50"/></a>
 
-### Languages
+### <i>Languages</i>
 
 [:heavy_check_mark:] -> Already worked with. | All courses completed.<br/>
 [:x:] -> Planning to work with. | Not all courses completed.<br/>
@@ -80,4 +80,4 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
   <li>R [:x:]</li>
 </ul>
 
-### See You Later, Alligator!
+### <i>See You Later, Alligator!</i>
