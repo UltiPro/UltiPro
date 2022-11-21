@@ -5,9 +5,10 @@
 I wrote lots of private repositories which I can not publicate. Sorry for the inconviniance :anguished:
 
 ### <i>Preferences</i>
-:heart: .NET (C#)<br/>
+:yellow_heart: .NET (C#)<br/>
 :blue_heart: TypeScript<br/>
 :purple_heart: BootStrap<br/>
+:heart: Angular<br/>
   
 ### <i>Socials</i>
 
@@ -16,8 +17,6 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
 <a href="https://steamcommunity.com/id/ulti_pro/"><img src="./icons/steam.png" width="50"/></a>
 <br/>
 Discord: Ulti#8198
-
-
 
 ### <i>Languages</i>
 
