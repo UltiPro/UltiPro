@@ -27,6 +27,7 @@ Discord: Ulti#8198
   <li>HTML [:heavy_check_mark:]</li>
   <li>CSS [:x:]</li>
     <ul>
+      <li>BootStrap [:heavy_check_mark:]</li>
       <li>SCSS [:x:]</li>
       <li>SAS [:x:]</li>
     </ul>
@@ -34,9 +35,10 @@ Discord: Ulti#8198
     <ul>
       <li>JQuery [:heavy_check_mark:]</li>
       <li>AJAX [:x:]</li>
-      <li>BootStrap [:heavy_check_mark:]</li>
       <li>TypeScript [:heavy_check_mark:]</li>
-      <li>Angular [:x:]</li>
+        <ul>
+          <li>Angular [:x:]</li>
+        </ul>
       <li>React [:x:]</li>
       <li>Vue [:x:]</li>
       <li>Node [:x:]</li>
@@ -59,8 +61,8 @@ Discord: Ulti#8198
         <li>WPF [:x:]</li>
         <li>Razor Pages [:heavy_check_mark:]</li>
         <li>MVC [:x:]</li>
-        <li>Xamarin [:x:]</li>
         <li>API [:x:]</li>
+        <li>Xamarin [:x:]</li>
      </ul>
   <li>JAVA [:heavy_check_mark:]</li>
      <ul>
