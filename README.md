@@ -9,6 +9,7 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
 :blue_heart: TypeScript<br/>
 :purple_heart: BootStrap<br/>
 :heart: Angular<br/>
+:white_heart: React<br/>
   
 ### <i>Socials</i>
 
@@ -36,9 +37,7 @@ Discord: Ulti#8198
       <li>JQuery [:heavy_check_mark:]</li>
       <li>AJAX [:x:]</li>
       <li>TypeScript [:heavy_check_mark:]</li>
-        <ul>
-          <li>Angular [:x:]</li>
-        </ul>
+      <li>Angular [:x:]</li>
       <li>React [:x:]</li>
       <li>Vue [:x:]</li>
       <li>Node [:x:]</li>
