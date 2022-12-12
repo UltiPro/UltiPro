@@ -32,7 +32,7 @@ Discord: Ulti#8198
       <li>SCSS [:x:]</li>
       <li>SAS [:x:]</li>
     </ul>
-  <li>JS [:x:]</li>
+  <li>JS [:heavy_check_mark:]</li>
     <ul>
       <li>JQuery [:heavy_check_mark:]</li>
       <li>AJAX [:x:]</li>
