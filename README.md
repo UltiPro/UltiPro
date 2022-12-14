@@ -32,9 +32,9 @@ Discord: Ulti#8198
       <li>SCSS [:x:]</li>
       <li>SAS [:x:]</li>
     </ul>
-  <li>JS [:heavy_check_mark:]</li>
+  <li>JS [:grey_question:]</li>
     <ul>
-      <li>JQuery [:heavy_check_mark:]</li>
+      <li>JQuery [:grey_question:]</li>
       <li>AJAX [:grey_question:]</li>
       <li>TypeScript [:heavy_check_mark:]</li>
       <li>Angular [:grey_question:]</li>
@@ -57,6 +57,7 @@ Discord: Ulti#8198
   <li>C++ [:heavy_check_mark:]</li>
   <li>C# [:heavy_check_mark:]</li>
      <ul>
+        <li>LINQ [:x:]</li>
         <li>WPF [:x:]</li>
         <li>Razor Pages [:heavy_check_mark:]</li>
         <li>MVC [:grey_question:]</li>
