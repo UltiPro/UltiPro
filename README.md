@@ -21,11 +21,12 @@ Discord: Ulti#8198
 ### <i>Languages</i>
 
 [:heavy_check_mark:] -> Already worked with. | All courses completed.<br/>
-[:x:] -> Planning to work with. | Not all courses completed.<br/>
+[:grey_question:] -> Currently studying | Not all courses completed.<br/>
+[:x:] -> Planning to work with.<br/>
 
 <ul>
   <li>HTML [:heavy_check_mark:]</li>
-  <li>CSS [:x:]</li>
+  <li>CSS [:grey_question:]</li>
     <ul>
       <li>BootStrap [:heavy_check_mark:]</li>
       <li>SCSS [:x:]</li>
@@ -34,10 +35,10 @@ Discord: Ulti#8198
   <li>JS [:heavy_check_mark:]</li>
     <ul>
       <li>JQuery [:heavy_check_mark:]</li>
-      <li>AJAX [:x:]</li>
+      <li>AJAX [:grey_question:]</li>
       <li>TypeScript [:heavy_check_mark:]</li>
-      <li>Angular [:x:]</li>
-      <li>React [:x:]</li>
+      <li>Angular [:grey_question:]</li>
+      <li>React [:grey_question:]</li>
       <li>Vue [:x:]</li>
       <li>Node [:x:]</li>
     </ul>
@@ -53,14 +54,14 @@ Discord: Ulti#8198
      <ul>
         <li>MakeFile [:heavy_check_mark:]</li>
     </ul>
-  <li>C++ [:heavy_check_mark:]</li>
+  <li>C++ [:grey_question:]</li>
   <li>C# [:heavy_check_mark:]</li>
      <ul>
         <li>WPF [:x:]</li>
         <li>Razor Pages [:heavy_check_mark:]</li>
-        <li>MVC [:x:]</li>
-        <li>API [:x:]</li>
-        <li>Xamarin [:x:]</li>
+        <li>MVC [:grey_question:]</li>
+        <li>API [:grey_question:]</li>
+        <li>Xamarin [:grey_question:]</li>
      </ul>
   <li>JAVA [:heavy_check_mark:]</li>
      <ul>
