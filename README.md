@@ -54,7 +54,7 @@ Discord: Ulti#8198
      <ul>
         <li>MakeFile [:heavy_check_mark:]</li>
     </ul>
-  <li>C++ [:grey_question:]</li>
+  <li>C++ [:heavy_check_mark:]</li>
   <li>C# [:heavy_check_mark:]</li>
      <ul>
         <li>WPF [:x:]</li>
