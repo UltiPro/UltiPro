@@ -21,7 +21,7 @@ Discord: Ulti#8198
 ### <i>Languages</i>
 
 [:heavy_check_mark:] -> Already worked with. | All courses completed.<br/>
-[:grey_question:] -> Currently studying | Not all courses completed.<br/>
+[:grey_question:] -> Currently studying. | Not all courses completed.<br/>
 [:x:] -> Planning to work with.<br/>
 
 <ul>
