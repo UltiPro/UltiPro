@@ -35,9 +35,9 @@ Discord: Ulti#8198
     </ul>
   <li>JS [:grey_question:]</li>
     <ul>
-      <li>JQuery [:heavy_check_mark:]</li>
+      <li>JQuery [:grey_question:]</li>
       <li>AJAX [:grey_question:]</li>
-      <li>TypeScript [:heavy_check_mark:]</li>
+      <li>TypeScript [:grey_question:]</li>
       <li>Angular [:grey_question:]</li>
       <li>React [:grey_question:]</li>
       <li>Vue [:x:]</li>
