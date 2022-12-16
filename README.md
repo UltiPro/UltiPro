@@ -18,7 +18,7 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
 <br/>
 Discord: Ulti#8198
 
-### <i>Languages</i>
+### <i>Languages | Technologies</i>
 
 [:heavy_check_mark:] -> Already worked with. | All courses completed.<br/>
 [:grey_question:] -> Currently studying. | Not all courses completed.<br/>
@@ -29,12 +29,13 @@ Discord: Ulti#8198
   <li>CSS [:grey_question:]</li>
     <ul>
       <li>BootStrap [:heavy_check_mark:]</li>
-      <li>SCSS [:x:]</li>
-      <li>SAS [:x:]</li>
+      <li>SCSS [:grey_question:]</li>
+      <li>SASS [:grey_question:]</li>
+      <li>LESS [:grey_question:]</li>
     </ul>
   <li>JS [:grey_question:]</li>
     <ul>
-      <li>JQuery [:grey_question:]</li>
+      <li>JQuery [:heavy_check_mark:]</li>
       <li>AJAX [:grey_question:]</li>
       <li>TypeScript [:heavy_check_mark:]</li>
       <li>Angular [:grey_question:]</li>
@@ -42,6 +43,7 @@ Discord: Ulti#8198
       <li>Vue [:x:]</li>
       <li>Node [:x:]</li>
     </ul>
+  <li>JSON [:heavy_check_mark:]</li>
   <li>PHP [:x:]</li>
      <ul>
       <li>Symphony [:x:]</li>
@@ -58,6 +60,7 @@ Discord: Ulti#8198
   <li>C# [:heavy_check_mark:]</li>
      <ul>
         <li>LINQ [:x:]</li>
+        <li>EF Core [:x:]</li>
         <li>WPF [:x:]</li>
         <li>Razor Pages [:heavy_check_mark:]</li>
         <li>MVC [:grey_question:]</li>
