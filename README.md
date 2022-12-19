@@ -87,4 +87,8 @@ Discord: Ulti#8198
   <li>R [:x:]</li>
 </ul>
 
+### Other
+
+Emmet [:heavy_check_mark:]<br/>
+
 ### <i>See You Later, Alligator!</i>
