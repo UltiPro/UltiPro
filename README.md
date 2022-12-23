@@ -32,6 +32,7 @@ Discord: Ulti#8198
       <li>SCSS & SASS [:grey_question:]</li>
         <ul>
           <li>Compass [:grey_question:]</li>
+          <li>Bourbon [:grey_question:]</li>
         </ul>
       <li>LESS [:x:]</li>
     </ul>
