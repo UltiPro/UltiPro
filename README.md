@@ -29,10 +29,10 @@ Discord: Ulti#8198
   <li>CSS [:grey_question:]</li>
     <ul>
       <li>BootStrap [:heavy_check_mark:]</li>
-      <li>SCSS & SASS [:grey_question:]</li>
+      <li>SCSS & SASS [:heavy_check_mark:]</li>
         <ul>
-          <li>Compass [:grey_question:]</li>
-          <li>Bourbon [:grey_question:]</li>
+          <li>Compass [:x:]</li>
+          <li>Bourbon [:x:]</li>
         </ul>
       <li>LESS [:x:]</li>
     </ul>
