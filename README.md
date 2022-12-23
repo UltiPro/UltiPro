@@ -31,9 +31,9 @@ Discord: Ulti#8198
       <li>BootStrap [:heavy_check_mark:]</li>
       <li>SCSS & SASS [:grey_question:]</li>
         <ul>
-          <li>Compass [:x:]</li>
+          <li>Compass [:grey_question:]</li>
         </ul>
-      <li>LESS [:grey_question:]</li>
+      <li>LESS [:x:]</li>
     </ul>
   <li>JS [:grey_question:]</li>
     <ul>
