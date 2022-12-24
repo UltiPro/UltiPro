@@ -7,7 +7,7 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
 ### <i>Preferences</i>
 :yellow_heart: .NET (C#)<br/>
 :blue_heart: JavaScript | TypeScript<br/>
-:purple_heart: BootStrap<br/>
+:purple_heart: BootStrap | SASS<br/>
 :heart: Angular | React<br/>
   
 ### <i>Socials</i>
