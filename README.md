@@ -27,9 +27,6 @@ Discord: Ulti#8198
 
 <ul>
   <li>HTML [:heavy_check_mark:]</li>
-    <ul>
-      <li>Emmet [:heavy_check_mark:]</li>
-    </ul>
   <li>CSS [:grey_question:]</li>
     <ul>
       <li>BootStrap [:heavy_check_mark:]</li>
@@ -92,6 +89,12 @@ Discord: Ulti#8198
         <li>Ruby On Rails [:x:]</li>
      </ul>
   <li>R [:x:]</li>
+</ul>
+
+### Other
+
+<ul>
+  <li>Emmet [:heavy_check_mark:]</li>
 </ul>
 
 ### <i>See You Later, Alligator!</i>
