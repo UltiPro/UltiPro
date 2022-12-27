@@ -39,8 +39,8 @@ Discord: Ulti#8198
     </ul>
   <li>JS [:grey_question:]</li>
     <ul>
-      <li>JQuery [:grey_question:]</li>
       <li>AJAX [:grey_question:]</li>
+      <li>JQuery [:grey_question:]</li>
       <li>TypeScript [:grey_question:]</li>
       <li>Angular [:grey_question:]</li>
       <li>React [:grey_question:]</li>
