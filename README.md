@@ -27,7 +27,7 @@ Discord: Ulti#8198
 
 <ul>
   <li>HTML [:heavy_check_mark:]</li>
-  <li>CSS [:grey_question:]</li>
+  <li>CSS [:heavy_check_mark:]</li>
     <ul>
       <li>BootStrap [:heavy_check_mark:]</li>
       <li>SCSS & SASS [:heavy_check_mark:]</li>
@@ -36,6 +36,7 @@ Discord: Ulti#8198
           <li>Bourbon [:x:]</li>
         </ul>
       <li>LESS [:x:]</li>
+      <li>Tailwind CSS [:x:]</li>
     </ul>
   <li>JS [:grey_question:]</li>
     <ul>
