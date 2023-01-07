@@ -7,8 +7,8 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
 ### <i>Preferences</i>
 :yellow_heart: .NET (C#)<br/>
 :blue_heart: JavaScript | TypeScript<br/>
-:purple_heart: BootStrap | SASS<br/>
-:heart: Angular | React<br/>
+:purple_heart: BootStrap | SCSS<br/>
+:heart: Angular <br/>
   
 ### <i>Socials</i>
 
@@ -44,11 +44,16 @@ Discord: Ulti#8198
       <li>JQuery [:grey_question:]</li>
       <li>TypeScript [:grey_question:]</li>
       <li>Angular [:grey_question:]</li>
+        <ul>
+          <li>Angular Material [:grey_question:]</li>
+          <li>RxJS [:grey_question:]</li>
+        </ul>
       <li>React [:grey_question:]</li>
       <li>Vue [:x:]</li>
       <li>Node [:x:]</li>
     </ul>
   <li>JSON [:heavy_check_mark:]</li>
+  <li>XML [:grey_question:]</li>
   <li>PHP [:x:]</li>
      <ul>
       <li>Symphony [:x:]</li>
