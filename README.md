@@ -18,12 +18,14 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
 <br/>
 Discord: Ulti#8198
 
-### <i>Languages | Technologies</i>
+<hr>
 
 [:heavy_check_mark:] -> Already worked with. | All courses completed.<br/>
 [:floppy_disk:] -> [:heavy_check_mark:] | Deprecated, I won't be working with this anymore.<br/>
 [:grey_question:] -> Currently studying. | Not all courses completed.<br/>
 [:x:] -> Planning to work with.<br/>
+
+### <i>Languages | Technologies</i>
 
 <ul>
   <li>HTML [:heavy_check_mark:]</li>
@@ -52,8 +54,6 @@ Discord: Ulti#8198
       <li>Vue [:x:]</li>
       <li>Node [:x:]</li>
     </ul>
-  <li>JSON [:heavy_check_mark:]</li>
-  <li>XML [:grey_question:]</li>
   <li>PHP [:x:]</li>
      <ul>
       <li>Symphony [:x:]</li>
@@ -63,9 +63,6 @@ Discord: Ulti#8198
   <li>WordPress [:x:]</li>
   <li>SQL [:heavy_check_mark:]</li>
   <li>C [:heavy_check_mark:]</li>
-     <ul>
-        <li>MakeFile [:heavy_check_mark:]</li>
-    </ul>
   <li>C++ [:heavy_check_mark:]</li>
   <li>C# [:heavy_check_mark:]</li>
      <ul>
@@ -100,9 +97,17 @@ Discord: Ulti#8198
   <li>R [:x:]</li>
 </ul>
 
+### File Formats
+
+<ul>  
+  <li>JSON [:heavy_check_mark:]</li>
+  <li>XML [:grey_question:]</li>
+</ul>
+
 ### Other
 
 <ul>
+  <li>MakeFile [:grey_question:]</li>
   <li>Emmet [:heavy_check_mark:]</li>
 </ul>
 
