@@ -71,10 +71,10 @@ Discord: Ulti#8198
         <li>WPF [:x:]</li>
         <li>Razor Pages [:heavy_check_mark:]</li>
         <li>MVC [:grey_question:]</li>
-        <li>API [:grey_question:]</li>
-        <li>Xamarin [:grey_question:]</li>
+        <li>API [:x:]</li>
+        <li>Xamarin [:x:]</li>
              <ul>
-                <li>Xamarin.Forms [:grey_question:]</li>
+                <li>Xamarin.Forms [:x:]</li>
              </ul>
      </ul>
   <li>JAVA [:heavy_check_mark:]</li>
