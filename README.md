@@ -97,7 +97,7 @@ Discord: Ulti#8198
   <li>R [:x:]</li>
 </ul>
 
-### File Formats
+### Special Formats
 
 <ul>  
   <li>JSON [:heavy_check_mark:]</li>
@@ -108,8 +108,8 @@ Discord: Ulti#8198
 ### Other
 
 <ul>
-  <li>MakeFile [:grey_question:]</li>
   <li>Emmet [:heavy_check_mark:]</li>
+  <li>MakeFile [:grey_question:]</li>
 </ul>
 
 ### <i>See You Later, Alligator!</i>
