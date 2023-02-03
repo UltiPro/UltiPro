@@ -102,7 +102,7 @@ Discord: Ulti#8198
 <ul>  
   <li>JSON [:heavy_check_mark:]</li>
   <li>XML [:grey_question:]</li>
-  <li>Regular expression [:grey_question:]</li>
+  <li>REGEX [:grey_question:]</li>
 </ul>
 
 ### Other
