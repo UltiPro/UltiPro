@@ -20,9 +20,9 @@ Discord: Ulti#8198
 
 <hr>
 
-[:heavy_check_mark:] -> Already worked with. | All courses completed.<br/>
-[:floppy_disk:] -> [:heavy_check_mark:] | Deprecated, I won't be working with this anymore.<br/>
-[:grey_question:] -> Currently studying. | Not all courses completed.<br/>
+[:heavy_check_mark:] -> Already worked with. && All courses completed.<br/>
+[:floppy_disk:] -> [:heavy_check_mark:] && Deprecated, I won't be working with this anymore.<br/>
+[:grey_question:] -> Currently studying. && Not all courses completed.<br/>
 [:x:] -> Planning to work with.<br/>
 
 ### <i>Languages | Technologies</i>
