@@ -50,7 +50,7 @@ Discord: Ulti#8198
           <li>Angular Material [:grey_question:]</li>
           <li>RxJS [:grey_question:]</li>
         </ul>
-      <li>React [:grey_question:]</li>
+      <li>React [:x:]</li>
       <li>Vue [:x:]</li>
       <li>Node [:x:]</li>
     </ul>
@@ -82,9 +82,9 @@ Discord: Ulti#8198
         <li>Maven [:x:]</li>
         <li>JavaFX [:x:]</li>
      </ul>
-  <li>Python [:x:]</li>
+  <li>Python [:grey_question:]</li>
      <ul>
-        <li>Django [:x:]</li>
+        <li>Django [:grey_question:]</li>
      </ul>
   <li>Kotline [:x:]</li>
   <li>Objective C [:x:]</li>
