@@ -103,13 +103,13 @@ Discord: Ulti#8198
   <li>JSON [:heavy_check_mark:]</li>
   <li>XML [:grey_question:]</li>
   <li>REGEX [:grey_question:]</li>
+  <li>MakeFile [:grey_question:]</li>
 </ul>
 
 ### Other
 
 <ul>
   <li>Emmet [:heavy_check_mark:]</li>
-  <li>MakeFile [:grey_question:]</li>
 </ul>
 
 ### <i>See You Later, Alligator!</i>
