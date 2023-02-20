@@ -1,8 +1,10 @@
-# Hi there 👋, my name is Patrick known as Ulti 😄
+# Hi there 👋, my name is Patrick known as Ulti 😄 <img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="UltiPro" align="right"/>
 
 ## I am male freelancer, student at Bialystok Technical University
 
 I wrote lots of private repositories which I can not publicate. Sorry for the inconviniance :anguished:
+
+<p align="left"></p>
 
 ### <i>Preferences</i>
 :yellow_heart: .NET (C#)<br/>
