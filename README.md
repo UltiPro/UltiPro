@@ -1,16 +1,21 @@
-# Hi there 👋, my name is Patrick known as Ulti 😄 <img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="UltiPro" align="right"/>
+# Hi there 👋, my name is Patrick known as Ulti 😄 <img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="UltiPro prfile views" align="right"/>
 
 ## I am male freelancer, student at Bialystok Technical University
 
 I wrote lots of private repositories which I can not publicate. Sorry for the inconviniance :anguished:
 
-<p align="left"></p>
+<hr/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&layout=compact" alt="Ulti's most used languages image" align="right" />
 
 ### <i>Preferences</i>
 :yellow_heart: .NET (C#)<br/>
 :blue_heart: JavaScript | TypeScript<br/>
 :purple_heart: BootStrap | SCSS<br/>
 :heart: Angular <br/>
+<br/>
+
+<hr/>
   
 ### <i>Socials</i>
 
@@ -20,7 +25,7 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
 <br/>
 Discord: Ulti#8198
 
-<hr>
+<hr/>
 
 [:heavy_check_mark:] -> Already worked with. && All courses completed.<br/>
 [:floppy_disk:] -> [:heavy_check_mark:] && Deprecated, I won't be working with this anymore.<br/>
@@ -113,5 +118,7 @@ Discord: Ulti#8198
 <ul>
   <li>Emmet [:heavy_check_mark:]</li>
 </ul>
+
+<hr/>
 
 ### <i>See You Later, Alligator!</i>
