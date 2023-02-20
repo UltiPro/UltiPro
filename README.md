@@ -13,7 +13,7 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
 :blue_heart: JavaScript | TypeScript<br/>
 :purple_heart: BootStrap | SCSS<br/>
 :heart: Angular <br/>
-<br/>
+<br/><br/>
 
 <hr/>
   
