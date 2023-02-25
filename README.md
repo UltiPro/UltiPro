@@ -111,6 +111,7 @@ Discord: Ulti#8198
   <li>XML [:grey_question:]</li>
   <li>REGEX [:grey_question:]</li>
   <li>MakeFile [:grey_question:]</li>
+  <li>Python Pickle [:grey_question:]</li>
 </ul>
 
 ### Other
