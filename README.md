@@ -81,23 +81,14 @@ Discord: Ulti#8198
              </ul>
      </ul>
   <li>JAVA [:heavy_check_mark:]</li>
-     <ul>
-        <li>Maven [:x:]</li>
-        <li>JavaFX [:x:]</li>
-     </ul>
   <li>Python [:grey_question:]</li>
      <ul>
         <li>Django [:grey_question:]</li>
      </ul>
   <li>Ruby [:x:]</li>
-    <ul>
+      <ul>
         <li>Ruby On Rails [:x:]</li>
-     </ul>
-  <li>Kotline [:x:]</li>
-  <li>Objective C [:x:]</li>
-  <li>Swift [:x:]</li>
-  <li>Rust [:x:]</li>
-  <li>R [:x:]</li>
+      </ul>
 </ul>
 
 ### Special Formats
