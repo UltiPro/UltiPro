@@ -40,10 +40,6 @@ Discord: Ulti#8198
     <ul>
       <li>BootStrap [:heavy_check_mark:]</li>
       <li>SCSS & SASS [:heavy_check_mark:]</li>
-        <ul>
-          <li>Compass [:x:]</li>
-          <li>Bourbon [:x:]</li>
-        </ul>
       <li>LESS [:x:]</li>
       <li>Tailwind CSS [:x:]</li>
     </ul>
