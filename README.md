@@ -73,9 +73,9 @@ Discord: Ulti#8198
   <li>C++ [:heavy_check_mark:]</li>
   <li>C# [:heavy_check_mark:]</li>
      <ul>
-        <li>LINQ [:x:]</li>
+        <li>LINQ [:grey_question:]</li>
         <li>EF Core [:x:]</li>
-        <li>WPF [:x:]</li>
+        <li>WPF [:grey_question:]</li>
         <li>Razor Pages [:heavy_check_mark:]</li>
         <li>MVC [:grey_question:]</li>
         <li>API [:x:]</li>
