@@ -22,8 +22,8 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
 <a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.png" width="50"/></a>
 <a href="https://www.instagram.com/ulti_pl/"><img src="./icons/instagram.png" width="50"/></a>
 <a href="https://steamcommunity.com/id/ulti_pro/"><img src="./icons/steam.png" width="50"/></a>
-<br/>
-Discord: Ulti#8198
+<br/><br/>
+Discord Id: Ulti#8198
 
 <hr/>
 
