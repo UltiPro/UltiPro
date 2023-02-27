@@ -83,6 +83,7 @@ Discord Id: Ulti#8198
   <li>Python [:grey_question:]</li>
      <ul>
         <li>Django [:grey_question:]</li>
+        <li>Flask [:grey_question:]</li>
      </ul>
   <li>Ruby [:x:]</li>
       <ul>
