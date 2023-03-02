@@ -69,16 +69,16 @@ Discord Id: Ulti#8198
   <li>C# [:heavy_check_mark:]</li>
      <ul>
         <li>LINQ [:grey_question:]</li>
-        <li>EF Core [:x:]</li>
+        <li>EF Core [:grey_question:]</li>
         <li>WPF [:grey_question:]</li>
         <li>Razor Pages [:heavy_check_mark:]</li>
-        <li>MVC [:grey_question:]</li>
-        <li>API [:x:]</li>
-        <li>Xamarin [:x:]</li>
+        <li>ASP.NET MVC [:grey_question:]</li>
+        <li>REST API [:grey_question:]</li>
+        <li>Xamarin [:grey_question:]</li>
              <ul>
-                <li>Xamarin.Forms [:x:]</li>
+                <li>Xamarin.Forms [:grey_question:]</li>
              </ul>
-        <li>Unity [:x:]</li>
+        <li>Unity [:grey_question:]</li>
      </ul>
   <li>JAVA [:heavy_check_mark:]</li>
   <li>Python [:grey_question:]</li>
