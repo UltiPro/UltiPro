@@ -74,11 +74,11 @@ Discord Id: Ulti#8198
         <li>Razor Pages [:heavy_check_mark:]</li>
         <li>ASP.NET MVC [:grey_question:]</li>
         <li>REST API [:grey_question:]</li>
-        <li>Xamarin [:grey_question:]</li>
+        <li>Xamarin [:x:]</li>
              <ul>
-                <li>Xamarin.Forms [:grey_question:]</li>
+                <li>Xamarin.Forms [:x:]</li>
              </ul>
-        <li>Unity [:grey_question:]</li>
+        <li>Unity [:x:]</li>
      </ul>
   <li>JAVA [:heavy_check_mark:]</li>
   <li>Python [:grey_question:]</li>
