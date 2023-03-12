@@ -112,6 +112,21 @@ Discord Id: Ulti#8198
   <li>Emmet [:heavy_check_mark:]</li>
 </ul>
 
+### Databases I worked with
+
+<ul>
+  <li>Microsoft SQL Server [:heavy_check_mark:]</li>
+    <ul>
+      <li>SSMS [:heavy_check_mark:]</li>
+    </ul>
+  <li>SQLite [:heavy_check_mark:]</li>
+  <li>MySQL [:x:]</li>
+  <li>PostgresSQL [:x:]</li>
+  <li>Oracle SQL [:x:]</li>
+  <li>MongoDB [:x:]</li>
+  <li>Cassandra [:x:]</li>
+</ul>
+
 <hr/>
 
 ### <i>See You Later, Alligator!</i>
