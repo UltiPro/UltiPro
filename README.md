@@ -6,7 +6,7 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
 
 <hr/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&layout=compact" alt="Ulti's most used languages image" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&layout=compact" alt="Ulti's most used languages" align="right" />
 
 ### <i>Preferences</i>
 :yellow_heart: .NET (C#)<br/>
