@@ -87,7 +87,7 @@ Discord Id: Ulti#8198
   <li>JAVA [:heavy_check_mark:]</li>
   <li>Python [:heavy_check_mark:]</li>
      <ul>
-        <li>Django [:grey_question:]</li>
+        <li>Django [:heavy_check_mark:]</li>
         <li>Flask [:x:]</li>
      </ul>
   <li>Ruby [:x:]</li>
