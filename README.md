@@ -1,22 +1,20 @@
-# Hi there 👋, my name is Patrick known as Ulti 😄 <img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="UltiPro prfile views" align="right"/>
+# Hi there 👋 my name is Patrick known as Ulti 😄
 
 ## I am male freelancer, student at Bialystok Technical University
 
-I wrote lots of private repositories which I can not publicate. Sorry for the inconviniance :anguished:
+<img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="UltiPro prfile views" align="right"/>
 
-<hr/>
+### <i>Preferences :point_right: Full-Stack Developer</i>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&layout=compact" alt="Ulti's most used languages" align="right" />
 
-### <i>Preferences - Full-stack Developer</i>
-<a href=""><img src="./icons/html5.svg" width="50"/></a><br/>
-<a href=""><img src="./icons/css3.svg" width="50"/></a> <a href=""><img src="./icons/bootstrap5.svg" width="50"/></a> <a href=""><img src="./icons/sass.svg" width="50"/></a><br/>
-<a href=""><img src="./icons/javascript.svg" width="50"/></a> <a href=""><img src="./icons/typescript.svg" width="50"/></a><br/>
-<a href=""><img src="./icons/dot-net.png" width="50"/></a> <a href=""><img src="./icons/csharp.svg" width="50"/></a><br/>
-<a href=""><img src="./icons/python.svg" width="50"/></a> <a href=""><img src="./icons/django.svg" width="50"/></a><br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html5.svg" width="50"/></a><br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css3.svg" width="50"/></a> <a href="https://getbootstrap.com/"><img src="./icons/bootstrap5.svg" width="50"/></a> <a href="https://sass-lang.com/"><img src="./icons/sass.svg" width="50"/></a><br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./icons/javascript.svg" width="50"/></a> <a href="https://www.typescriptlang.org/"><img src="./icons/typescript.svg" width="50"/></a><br/>
+<a href="https://dotnet.microsoft.com/en-us/"><img src="./icons/dot-net.png" width="50"/></a> <a href="https://learn.microsoft.com/pl-pl/dotnet/csharp/"><img src="./icons/csharp.svg" width="50"/></a><br/>
+<a href="https://www.python.org/"><img src="./icons/python.svg" width="50"/></a> <a href="https://www.djangoproject.com/"><img src="./icons/django.svg" width="50"/></a><br/>
 
-:heart: Angular <br/>
-<br/>
+:heart: Angular, React, Vue
 
 <hr/>
   
