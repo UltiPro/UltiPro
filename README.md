@@ -18,7 +18,8 @@
   
 ### <i>Socials</i>
 
-<a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.png" width="50"/></a>
+<a href=""><img src="./icons/linkedin.svg" width="50"/></a>
+<a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.svg" width="50"/></a>
 <a href="https://www.instagram.com/ulti_pl/"><img src="./icons/instagram.png" width="50"/></a>
 <a href="https://steamcommunity.com/id/ulti_pro/"><img src="./icons/steam.png" width="50"/></a>
 <br/><br/>
