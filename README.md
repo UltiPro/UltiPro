@@ -18,11 +18,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="UltiPro prfile views" align="right" width="350" />
 
-<h3 align="left" width="500" height="75">
+<h3 align="left" height="75">
   <a href="https://www.linkedin.com/in/patryk-w%C3%B3jtowicz-534b42270/"><img src="./icons/linkedin.svg" width="50"/></a>
   <a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.svg" width="50"/></a>
   <a href="https://www.instagram.com/ulti_pl/"><img src="./icons/instagram.png" width="50"/></a>
-  <a href="https://steamcommunity.com/id/ulti_pro/"><img src="./icons/steam.png" width="50"/></a>
+  <a href="https://steamcommunity.com/id/ulti_pro/"><img src="./icons/steam.png" width="50"/></a><br/>
 </h3>
 
 <hr/>
