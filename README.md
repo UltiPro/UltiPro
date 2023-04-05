@@ -6,7 +6,7 @@
 
 ### <i>Preferences :point_right: Full-Stack Developer</i>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&layout=compact" alt="Ulti's most used languages" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&layout=compact?" alt="Ulti's most used languages" align="right" />
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html5.svg" width="50"/></a><br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css3.svg" width="50"/></a> <a href="https://getbootstrap.com/"><img src="./icons/bootstrap5.svg" width="50"/></a> <a href="https://sass-lang.com/"><img src="./icons/sass.svg" width="50"/></a><br/>
