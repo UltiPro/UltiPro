@@ -1,10 +1,10 @@
-# Hi there 👋 my name is Patrick known as Ulti 😄
+<h1 align="center">Hi there 👋 my name is Patrick known as Ulti 😄</h1>
 
-## I am male freelancer, student at Bialystok Technical University
+<h2 align="center">I am male freelancer, student at Bialystok Technical University</h2>
 
 <img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="UltiPro prfile views" align="right"/>
 
-### <i>Preferences :point_right: Full-Stack Developer</i>
+<h3>Preferences :point_right: Full-Stack Developer</h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&layout=compact?" alt="Ulti's most used languages" align="right" />
 
@@ -16,7 +16,7 @@
 
 <hr/>
   
-### <i>Socials</i>
+### Socials
 
 <a href=""><img src="./icons/linkedin.svg" width="50"/></a>
 <a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.svg" width="50"/></a>
@@ -29,7 +29,7 @@
 [:grey_question:] -> Currently studying. && Not all courses completed.<br/>
 [:x:] -> Planning to work with.<br/>
 
-### <i>Languages | Technologies</i>
+### Languages | Technologies
 
 <ul>
   <li>HTML [:heavy_check_mark:]</li>
@@ -126,4 +126,4 @@
 
 <hr/>
 
-### <i>See You Later, Alligator!</i>
+<h3 align="center"><i>See You Later, Alligator!</i></h3>
