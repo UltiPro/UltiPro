@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&layout=compact?" alt="Ulti's most used languages" align="right" width="350"/>
 
-<h3>Preferences :point_right: Full-Stack Developer</h3>
+<h3>Preferences :point_right: Full-Stack Developer in ...</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html5.svg" width="50"/></a><br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css3.svg" width="50"/></a> <a href="https://getbootstrap.com/"><img src="./icons/bootstrap5.svg" width="50"/></a> <a href="https://sass-lang.com/"><img src="./icons/sass.svg" width="50"/></a><br/>
