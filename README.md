@@ -12,7 +12,7 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
 <a href=""><img src="./icons/html5.svg" width="50"/></a><br/>
 <a href=""><img src="./icons/css3.svg" width="50"/></a> <a href=""><img src="./icons/bootstrap5.svg" width="50"/></a> <a href=""><img src="./icons/sass.svg" width="50"/></a><br/>
 <a href=""><img src="./icons/javascript.svg" width="50"/></a> <a href=""><img src="./icons/typescript.svg" width="50"/></a><br/>
-<a href=""><img src="./icons/donet.svg" width="50"/></a> <a href=""><img src="./icons/csharp.svg" width="50"/></a><br/>
+<a href=""><img src="./icons/dot-net.png" width="50"/></a> <a href=""><img src="./icons/csharp.svg" width="50"/></a><br/>
 <a href=""><img src="./icons/python.svg" width="50"/></a> <a href=""><img src="./icons/django.svg" width="50"/></a><br/>
 
 :heart: Angular <br/>
