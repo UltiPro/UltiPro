@@ -22,8 +22,6 @@
 <a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.svg" width="50"/></a>
 <a href="https://www.instagram.com/ulti_pl/"><img src="./icons/instagram.png" width="50"/></a>
 <a href="https://steamcommunity.com/id/ulti_pro/"><img src="./icons/steam.png" width="50"/></a>
-<br/><br/>
-Discord Id: Ulti#8198
 
 <hr/>
 
