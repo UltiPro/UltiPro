@@ -16,7 +16,7 @@
   
 ### Socials
 
-<img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="UltiPro prfile views" align="right" width="350" />
+<h4><img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="UltiPro prfile views" align="right" width="350" /></h4>
 
 <a href="https://www.linkedin.com/in/patryk-w%C3%B3jtowicz-534b42270/"><img src="./icons/linkedin.svg" width="50"/></a>
 <a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.svg" width="50"/></a>
