@@ -8,14 +8,15 @@ I wrote lots of private repositories which I can not publicate. Sorry for the in
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&layout=compact" alt="Ulti's most used languages" align="right" />
 
-### <i>Preferences</i>
-Full-stack Developer<br/>
-:yellow_heart: .NET (C#)<br/>
-:blue_heart: JavaScript | TypeScript<br/>
-:purple_heart: BootStrap | SCSS<br/>
+### <i>Preferences - Full-stack Developer</i>
+<a href=""><img src="./icons/html5.svg" width="50"/></a><br/>
+<a href=""><img src="./icons/css3.svg" width="50"/></a> <a href=""><img src="./icons/bootstrap5.svg" width="50"/></a> <a href=""><img src="./icons/sass.svg" width="50"/></a><br/>
+<a href=""><img src="./icons/javascript.svg" width="50"/></a> <a href=""><img src="./icons/typescript.svg" width="50"/></a><br/>
+<a href=""><img src="./icons/donet.svg" width="50"/></a> <a href=""><img src="./icons/csharp.svg" width="50"/></a><br/>
+<a href=""><img src="./icons/python.svg" width="50"/></a> <a href=""><img src="./icons/django.svg" width="50"/></a><br/>
+
 :heart: Angular <br/>
-:heart: Python
-<br/><br/>
+<br/>
 
 <hr/>
   
