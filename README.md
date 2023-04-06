@@ -37,8 +37,6 @@
     <ul>
       <li>BootStrap [:heavy_check_mark:]</li>
       <li>SCSS & SASS [:heavy_check_mark:]</li>
-      <li>LESS [:x:]</li>
-      <li>Tailwind CSS [:x:]</li>
     </ul>
   <li>JS [:grey_question:]</li>
     <ul>
