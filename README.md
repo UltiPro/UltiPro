@@ -105,6 +105,8 @@
 
 <ul>
   <li>Emmet [:heavy_check_mark:]</li>
+  <li>Docker [:grey_question:]</li>
+  <li>Figma [:grey_question:]</li>
 </ul>
 
 ### Databases I worked with
