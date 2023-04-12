@@ -96,7 +96,7 @@
 <ul>  
   <li>JSON [:heavy_check_mark:]</li>
   <li>XML [:grey_question:]</li>
-  <li>REGEX [:grey_question:]</li>
+  <li>REGEX [:heavy_check_mark:]</li>
   <li>MakeFile [:grey_question:]</li>
   <li>Python Pickle [:grey_question:]</li>
 </ul>
