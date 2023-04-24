@@ -55,13 +55,6 @@
           <li>Express [:x:]</li>
         </ul>
     </ul>
-  <li>PHP [:x:]</li>
-     <ul>
-      <li>Symphony [:x:]</li>
-      <li>Laraver [:x:]</li>
-      <li>Composer [:x:]</li>
-     </ul>
-  <li>WordPress [:x:]</li>
   <li>SQL [:heavy_check_mark:]</li>
   <li>C [:heavy_check_mark:]</li>
   <li>C++ [:heavy_check_mark:]</li>
@@ -79,16 +72,11 @@
              </ul>
         <li>Unity [:x:]</li>
      </ul>
-  <li>JAVA [:heavy_check_mark:]</li>
   <li>Python [:heavy_check_mark:]</li>
      <ul>
         <li>Django [:heavy_check_mark:]</li>
         <li>Flask [:x:]</li>
      </ul>
-  <li>Ruby [:x:]</li>
-      <ul>
-        <li>Ruby On Rails [:x:]</li>
-      </ul>
 </ul>
 
 ### Special Formats
