@@ -63,6 +63,9 @@
         <li>LINQ [:grey_question:]</li>
         <li>EF Core [:grey_question:]</li>
         <li>WPF [:grey_question:]</li>
+          <ul>
+            <li>XAML [:grey_question:]</li>
+          </ul>
         <li>Razor Pages [:heavy_check_mark:]</li>
         <li>ASP.NET MVC [:grey_question:]</li>
         <li>REST API [:grey_question:]</li>
