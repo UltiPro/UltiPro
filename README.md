@@ -69,11 +69,6 @@
         <li>Razor Pages [:heavy_check_mark:]</li>
         <li>ASP.NET MVC [:grey_question:]</li>
         <li>REST API [:grey_question:]</li>
-        <li>Xamarin [:x:]</li>
-             <ul>
-                <li>Xamarin.Forms [:x:]</li>
-             </ul>
-        <li>Unity [:x:]</li>
      </ul>
   <li>Python [:heavy_check_mark:]</li>
      <ul>
