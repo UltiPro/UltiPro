@@ -69,6 +69,7 @@
         <li>WPF [:grey_question:]</li>
           <ul>
             <li>XAML [:grey_question:]</li>
+            <li>MahApps.Metro [:grey_question:]</li>
           </ul>
         <li>ASP.NET MVC [:grey_question:]</li>
         <li>Razor Pages [:heavy_check_mark:]</li>
