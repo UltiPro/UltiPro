@@ -2,7 +2,7 @@
 
 <h2 align="center">I am male freelancer, studying at Bialystok Technical University</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&layout=compact?" alt="Ulti's most used languages" align="right" width="350"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UltiPro&layout=compact?" alt="Ulti's most used languages" align="right" width="350"/>
 
 <h3>Preferences :point_right: Full-Stack Developer in ...</h3>
 
