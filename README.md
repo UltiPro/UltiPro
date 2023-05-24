@@ -66,9 +66,9 @@
           <ul>
             <li>REST [:grey_question:]</li>
           </ul>
-        <li>WPF [:grey_question:]</li>
+        <li>WPF [:heavy_check_mark:]</li>
           <ul>
-            <li>XAML [:grey_question:]</li>
+            <li>XAML [:heavy_check_mark:]</li>
             <li>MahApps.Metro [:grey_question:]</li>
           </ul>
         <li>ASP.NET MVC [:grey_question:]</li>
