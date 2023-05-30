@@ -43,8 +43,8 @@
       <li>AJAX | Fetch [:grey_question:]</li>
       <li>JQuery | JQuery AJAX [:grey_question:]</li>
       <li>TypeScript [:grey_question:]</li>
+      <li>React [:grey_question:]</li>
       <li>Angular [:grey_question:]</li>
-      <li>React [:x:]</li>
       <li>Vue [:x:]</li>
       <li>Node [:x:]</li>
         <ul>
@@ -65,7 +65,6 @@
         <li>WPF [:heavy_check_mark:]</li>
           <ul>
             <li>XAML [:heavy_check_mark:]</li>
-            <li>MahApps.Metro [:grey_question:]</li>
           </ul>
         <li>ASP.NET MVC [:grey_question:]</li>
         <li>Razor Pages [:heavy_check_mark:]</li>
