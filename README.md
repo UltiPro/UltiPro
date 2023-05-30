@@ -44,10 +44,6 @@
       <li>JQuery | JQuery AJAX [:grey_question:]</li>
       <li>TypeScript [:grey_question:]</li>
       <li>Angular [:grey_question:]</li>
-        <ul>
-          <li>Angular Material [:grey_question:]</li>
-          <li>RxJS [:grey_question:]</li>
-        </ul>
       <li>React [:x:]</li>
       <li>Vue [:x:]</li>
       <li>Node [:x:]</li>
