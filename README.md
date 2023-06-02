@@ -41,7 +41,7 @@
   <li>JS [:grey_question:]</li>
     <ul>
       <li>AJAX | Fetch [:grey_question:]</li>
-      <li>JQuery | JQuery AJAX [:grey_question:]</li>
+      <li>JQuery & JQuery Ajax [:grey_question:]</li>
       <li>TypeScript [:grey_question:]</li>
       <li>React [:grey_question:]</li>
       <li>Angular [:grey_question:]</li>
