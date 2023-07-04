@@ -40,7 +40,6 @@
     </ul>
   <li>JS [:grey_question:]</li>
     <ul>
-      <li>AJAX | Fetch [:grey_question:]</li>
       <li>jQuery & jQuery Ajax [:heavy_check_mark:]</li>
       <li>TypeScript [:grey_question:]</li>
       <li>React [:grey_question:]</li>
