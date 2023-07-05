@@ -38,9 +38,9 @@
       <li>BootStrap [:heavy_check_mark:]</li>
       <li>SCSS & SASS [:heavy_check_mark:]</li>
     </ul>
-  <li>JS [:grey_question:]</li>
+  <li>JavaScript [:grey_question:]</li>
     <ul>
-      <li>jQuery & jQuery Ajax [:heavy_check_mark:]</li>
+      <li>jQuery [:heavy_check_mark:]</li>
       <li>TypeScript [:grey_question:]</li>
       <li>React [:grey_question:]</li>
       <li>Angular [:grey_question:]</li>
