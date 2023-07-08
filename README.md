@@ -50,9 +50,6 @@
           <li>Express [:x:]</li>
         </ul>
     </ul>
-  <li>SQL [:heavy_check_mark:]</li>
-  <li>C [:heavy_check_mark:]</li>
-  <li>C++ [:heavy_check_mark:]</li>
   <li>C# [:heavy_check_mark:]</li>
      <ul>
         <li>LINQ [:grey_question:]</li>
@@ -73,6 +70,7 @@
         <li>Django [:heavy_check_mark:]</li>
         <li>Flask [:x:]</li>
      </ul>
+  <li>SQL [:heavy_check_mark:]</li>
 </ul>
 
 ### Special Formats
