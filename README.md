@@ -2,7 +2,7 @@
 
 <h2 align="center">I am male freelancer, studying at Bialystok Technical University</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&hide=HTML,PHP,C,C%2B%2b,Java,Makefile,Objective-C,Dockerfile,SHELL,HACK" alt="Ulti's most used languages" align="right" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&hide=HTML,PHP,C,C%2B%2b,Java,Makefile,Objective-C,Dockerfile,SHELL,HACK" alt="Ulti's most used languages" align="right" width="350"/>
 
 <h3>Preferences :point_right: Full-Stack Developer in ...</h3>
 
@@ -17,7 +17,7 @@
   
 ### Socials
 
-<img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="UltiPro prfile views" align="right" width="300"/>
+<img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="UltiPro prfile views" align="right" width="350"/>
 
 <a href="https://www.linkedin.com/in/patryk-w%C3%B3jtowicz-534b42270/"><img src="./icons/linkedin.svg" width="50"/></a>
 <a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.svg" width="50"/></a>
