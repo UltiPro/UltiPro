@@ -2,7 +2,7 @@
 
 <h2 align="center">I am male freelancer, studying at Bialystok Technical University</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&hide=HTML,PHP,C,C%2B%2b,Java,Makefile,Objective-C,Dockerfile,SHELL,HACK" alt="Ulti's most used languages" align="right" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&hide=HTML,PHP,C,C%2B%2b,Java,Makefile,Objective-C,Dockerfile,SHELL,HACK" alt="Ulti's most used languages" align="right" width="300" style="margin-bottom: 15px;"/>
 
 <h3>Preferences :point_right: Full-Stack Developer in ...</h3>
 
