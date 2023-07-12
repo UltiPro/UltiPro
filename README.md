@@ -2,15 +2,15 @@
 
 <h2 align="center">I am male freelancer, studying at Bialystok Technical University</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&hide=HTML,PHP,C,C%2B%2b,Java,Makefile,Objective-C,Dockerfile,SHELL,HACK" alt="Ulti's most used languages" align="right" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=compact&hide=HTML,PHP,C,C%2B%2b,Java,Makefile,Objective-C,Dockerfile,SHELL,HACK" alt="Ulti's most used languages" align="right" width="350"/>
 
 <h3>Preferences :point_right: Full-Stack Developer in ...</h3>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html5.svg" width="75"/></a><br/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css3.svg" width="75"/></a> <a href="https://getbootstrap.com/"><img src="./icons/bootstrap5.svg" width="75"/></a> <a href="https://sass-lang.com/"><img src="./icons/sass.svg" width="75"/></a><br/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./icons/javascript.svg" width="75"/></a> <a href="https://www.typescriptlang.org/"><img src="./icons/typescript.svg" width="75"/></a> <a href="https://react.dev/"><img src="./icons/react.svg" width="75"/></a> <a href="https://angular.io/"><img src="./icons/angular.svg" width="75"/></a> <a href="https://vuejs.org/"><img src="./icons/vue.svg" width="75"/></a><br/>
-<a href="https://dotnet.microsoft.com/en-us/"><img src="./icons/dot-net.png" width="75"/></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./icons/csharp.svg" width="75"/></a><br/>
-<a href="https://www.python.org/"><img src="./icons/python.svg" width="75"/></a> <a href="https://www.djangoproject.com/"><img src="./icons/django.svg" width="75"/></a><br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html5.svg" width="60"/></a><br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css3.svg" width="60"/></a> <a href="https://getbootstrap.com/"><img src="./icons/bootstrap5.svg" width="60"/></a> <a href="https://sass-lang.com/"><img src="./icons/sass.svg" width="60"/></a><br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./icons/javascript.svg" width="60"/></a> <a href="https://www.typescriptlang.org/"><img src="./icons/typescript.svg" width="60"/></a> <a href="https://react.dev/"><img src="./icons/react.svg" width="60"/></a> <a href="https://angular.io/"><img src="./icons/angular.svg" width="60"/></a> <a href="https://vuejs.org/"><img src="./icons/vue.svg" width="60"/></a><br/>
+<a href="https://dotnet.microsoft.com/en-us/"><img src="./icons/dot-net.png" width="60"/></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./icons/csharp.svg" width="60"/></a><br/>
+<a href="https://www.python.org/"><img src="./icons/python.svg" width="60"/></a> <a href="https://www.djangoproject.com/"><img src="./icons/django.svg" width="60"/></a><br/>
 
 <hr/>
   
