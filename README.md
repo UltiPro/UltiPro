@@ -32,79 +32,79 @@
 ### Languages | Technologies
 
 <ul>
-  <li>HTML [:heavy_check_mark:]</li>
-  <li>CSS [:heavy_check_mark:]</li>
+  <li>[:heavy_check_mark:] HTML</li>
+  <li>[:heavy_check_mark:] CSS</li>
     <ul>
-      <li>BootStrap [:heavy_check_mark:]</li>
-      <li>SCSS & SASS [:heavy_check_mark:]</li>
+      <li>[:heavy_check_mark:] BootStrap</li>
+      <li>[:heavy_check_mark:] SCSS & SASS</li>
     </ul>
-  <li>JavaScript [:grey_question:]</li>
+  <li>[:grey_question:] JavaScript</li>
     <ul>
-      <li>jQuery [:heavy_check_mark:]</li>
-      <li>TypeScript [:grey_question:]</li>
-      <li>React [:grey_question:]</li>
-      <li>Angular [:grey_question:]</li>
-      <li>Vue [:x:]</li>
-      <li>Node [:x:]</li>
+      <li>[:heavy_check_mark:] jQuery</li>
+      <li>[:grey_question:] TypeScript</li>
+      <li>[:grey_question:] React</li>
+      <li>[:grey_question:] Angular</li>
+      <li>[:x:] Vue</li>
+      <li>[:x:] Node</li>
         <ul>
-          <li>Express [:x:]</li>
+          <li>[:x:] Express</li>
         </ul>
     </ul>
-  <li>C# [:heavy_check_mark:]</li>
+  <li>[:heavy_check_mark:] C#</li>
      <ul>
-        <li>LINQ [:grey_question:]</li>
-        <li>EF Core [:grey_question:]</li>
-        <li>API [:grey_question:]</li>
+        <li>[:grey_question:] LINQ</li>
+        <li>[:grey_question:] EF Core</li>
+        <li>[:grey_question:] API</li>
           <ul>
-            <li>REST [:grey_question:]</li>
+            <li>[:grey_question:] REST</li>
           </ul>
-        <li>WPF [:heavy_check_mark:]</li>
+        <li>[:heavy_check_mark:] WPF</li>
           <ul>
-            <li>XAML [:heavy_check_mark:]</li>
+            <li>[:heavy_check_mark:] XAML</li>
           </ul>
-        <li>ASP.NET MVC [:grey_question:]</li>
-        <li>Razor Pages [:heavy_check_mark:]</li>
+        <li>[:grey_question:] ASP.NET MVC</li>
+        <li>[:heavy_check_mark:] Razor Pages</li>
      </ul>
-  <li>Python [:heavy_check_mark:]</li>
+  <li>[:heavy_check_mark:] Python</li>
      <ul>
-        <li>Django [:heavy_check_mark:]</li>
-        <li>Flask [:x:]</li>
+        <li>[:heavy_check_mark:] Django</li>
+        <li>[:x:] Flask</li>
      </ul>
-  <li>SQL [:heavy_check_mark:]</li>
+  <li>[:heavy_check_mark:] SQL</li>
      <ul>
-        <li>TSQL [:grey_question:]</li>
+        <li>[:grey_question:] TSQL</li>
      </ul>
 </ul>
 
 ### Special Formats
 
 <ul>  
-  <li>JSON [:heavy_check_mark:]</li>
-  <li>XML [:grey_question:]</li>
-  <li>Regex [:heavy_check_mark:]</li>
+  <li>[:heavy_check_mark:] JSON</li>
+  <li>[:grey_question:] XML</li>
+  <li>[:heavy_check_mark:] Regex</li>
 </ul>
 
 ### Other
 
 <ul>
-  <li>Emmet [:heavy_check_mark:]</li>
-  <li>Docker [:grey_question:]</li>
-  <li>Figma [:grey_question:]</li>
+  <li>[:heavy_check_mark:] Emmet</li>
+  <li>[:grey_question:] Docker</li>
+  <li>[:grey_question:] Figma</li>
 </ul>
 
 ### Databases I worked with
 
 <ul>
-  <li>Microsoft SQL Server [:heavy_check_mark:]</li>
+  <li>[:heavy_check_mark:] Microsoft SQL Server</li>
     <ul>
-      <li>SSMS [:heavy_check_mark:]</li>
+      <li>[:heavy_check_mark:] SSMS</li>
     </ul>
-  <li>SQLite [:heavy_check_mark:]</li>
-  <li>MySQL [:x:]</li>
-  <li>PostgresSQL [:x:]</li>
-  <li>Oracle SQL [:x:]</li>
-  <li>MongoDB [:x:]</li>
-  <li>Cassandra [:x:]</li>
+  <li>[:heavy_check_mark:] SQLite</li>
+  <li>[:x:] MySQL</li>
+  <li>[:x:] PostgresSQL</li>
+  <li>[:x:] Oracle SQL</li>
+  <li>[:x:] MongoDB</li>
+  <li>[:x:] Cassandra</li>
 </ul>
 
 <hr/>
