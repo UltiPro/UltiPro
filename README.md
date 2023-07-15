@@ -40,7 +40,7 @@
       <li>[:heavy_check_mark:] BootStrap</li>
       <li>[:heavy_check_mark:] SCSS & SASS</li>
     </ul>
-  <li>[:grey_question:] JavaScript</li>
+  <li>[:heavy_check_mark:] JavaScript</li>
     <ul>
       <li>[:heavy_check_mark:] jQuery</li>
       <li>[:grey_question:] TypeScript</li>
