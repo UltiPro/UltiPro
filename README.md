@@ -52,7 +52,7 @@
           <li>[:x:] Express</li>
         </ul>
     </ul>
-  <li>[:heavy_check_mark:] C#</li>
+  <li>[:heavy_check_mark:] .NET C#</li>
      <ul>
         <li>[:grey_question:] LINQ</li>
         <li>[:grey_question:] EF Core</li>
