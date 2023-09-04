@@ -27,9 +27,9 @@
 
 <hr/>
 
-[:heavy_check_mark:] -> Already worked with. && All courses completed.<br/>
-[:grey_question:] -> Currently studying. && Not all courses completed.<br/>
-[:x:] -> Planning to work with.<br/>
+[:heavy_check_mark:] -> All courses completed. Project written.<br/>
+[:grey_question:] -> Currently studying. Project in development.<br/>
+[:x:] -> Basic knowledge. Written basic scripts.<br/>
 
 ### Languages | Technologies
 
