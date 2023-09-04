@@ -28,8 +28,8 @@
 <hr/>
 
 [:heavy_check_mark:] -> All courses completed. Project written.<br/>
-[:grey_question:] -> Currently studying. Project in development.<br/>
-[:x:] -> Basic knowledge. Written basic scripts.<br/>
+[:grey_question:] -> Currently studying. Project in progress.<br/>
+[:x:] -> Familiarized with technology. Basic scripts written.<br/>
 
 ### Languages | Technologies
 
