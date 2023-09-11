@@ -76,25 +76,30 @@
      <ul>
         <li>[:grey_question:] TSQL</li>
      </ul>
+  <li>[:heavy_check_mark:] Regex</li>
 </ul>
+
+<hr/>
+
+[:heavy_check_mark:] -> Worked with.<br/>
+[:x:] -> Not worked with.<br/>
 
 ### Special Formats
 
 <ul>  
   <li>[:heavy_check_mark:] JSON</li>
-  <li>[:grey_question:] XML</li>
-  <li>[:heavy_check_mark:] Regex</li>
+  <li>[:heavy_check_mark:] XML</li>
 </ul>
 
 ### Other
 
 <ul>
   <li>[:heavy_check_mark:] Emmet</li>
-  <li>[:grey_question:] Docker</li>
-  <li>[:grey_question:] Figma</li>
+  <li>[:heavy_check_mark:] Figma</li>
+  <li>[:heavy_check_mark:] Docker</li>
 </ul>
 
-### Databases I worked with
+### Databases
 
 <ul>
   <li>[:heavy_check_mark:] Microsoft SQL Server</li>
