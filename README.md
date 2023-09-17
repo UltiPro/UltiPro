@@ -29,7 +29,7 @@
 
 ### Hosted Projects
 
-<a href="https://ultipro.github.io/TicTacToe/"><img src="./icons/projects/tictactoe.svg" width="60"/></a>
+<a href="https://ultipro.github.io/TicTacToe/"><img src="./icons/projects/tictactoe.ico" width="60"/></a>
 
 <hr/>
 
