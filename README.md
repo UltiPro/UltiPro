@@ -73,9 +73,6 @@
         <li>[:x:] Flask</li>
      </ul>
   <li>[:heavy_check_mark:] SQL</li>
-     <ul>
-        <li>[:grey_question:] TSQL</li>
-     </ul>
   <li>[:heavy_check_mark:] Regex</li>
 </ul>
 
@@ -113,6 +110,10 @@
   <li>[:x:] MongoDB</li>
   <li>[:x:] Cassandra</li>
 </ul>
+
+<hr/>
+
+
 
 <hr/>
 
