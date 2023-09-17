@@ -27,6 +27,12 @@
 
 <hr/>
 
+### Hosted Projects
+
+<a href="https://ultipro.github.io/TicTacToe/"><img src="./icons/projects/tictactoe.svg" width="60"/></a>
+
+<hr/>
+
 [:heavy_check_mark:] -> All courses completed. Project written.<br/>
 [:grey_question:] -> Currently studying. Project in progress.<br/>
 [:x:] -> Familiarized with technology. Basic scripts written.<br/>
@@ -108,10 +114,6 @@
   <li>[:x:] MongoDB</li>
   <li>[:x:] Cassandra</li>
 </ul>
-
-<hr/>
-
-
 
 <hr/>
 
