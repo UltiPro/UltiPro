@@ -37,32 +37,30 @@
   <li>[:heavy_check_mark:] HTML</li>
   <li>[:heavy_check_mark:] CSS</li>
     <ul>
-      <li>[:heavy_check_mark:] BootStrap</li>
       <li>[:heavy_check_mark:] SCSS & SASS</li>
+      <li>[:heavy_check_mark:] BootStrap</li>
     </ul>
   <li>[:heavy_check_mark:] JavaScript</li>
     <ul>
+      <li>[:heavy_check_mark:] AJAX</li>
       <li>[:heavy_check_mark:] jQuery</li>
       <li>[:grey_question:] TypeScript</li>
       <li>[:grey_question:] React</li>
       <li>[:grey_question:] Angular</li>
       <li>[:x:] Vue</li>
       <li>[:x:] Node</li>
-        <ul>
-          <li>[:x:] Express</li>
-        </ul>
     </ul>
   <li>[:heavy_check_mark:] .NET C#</li>
      <ul>
         <li>[:grey_question:] LINQ</li>
         <li>[:grey_question:] EF Core</li>
-        <li>[:grey_question:] API</li>
-          <ul>
-            <li>[:grey_question:] REST</li>
-          </ul>
         <li>[:heavy_check_mark:] WPF</li>
           <ul>
             <li>[:heavy_check_mark:] XAML</li>
+          </ul>
+        <li>[:grey_question:] API</li>
+          <ul>
+            <li>[:grey_question:] REST</li>
           </ul>
         <li>[:grey_question:] ASP.NET MVC</li>
         <li>[:heavy_check_mark:] Razor Pages</li>
