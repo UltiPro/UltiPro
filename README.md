@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 my name is Patrick known as Ulti 😄</h1>
+<h1 align="center">Hi there 👋 my name is Patrick, known as Ulti 😄</h1>
 
 <h2 align="center">I am male freelancer, studying at Bialystok Technical University</h2>
 
