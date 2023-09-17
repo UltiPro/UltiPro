@@ -96,8 +96,8 @@
 
 <ul>
   <li>[:heavy_check_mark:] Emmet</li>
-  <li>[:heavy_check_mark:] Figma</li>
   <li>[:heavy_check_mark:] Docker</li>
+  <li>[:heavy_check_mark:] Figma</li>
 </ul>
 
 ### Databases
