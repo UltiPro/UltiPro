@@ -30,6 +30,7 @@
 ### Hosted Projects
 
 <a href="https://ultipro.github.io/TicTacToe/"><img src="./icons/projects/tictactoe.ico" width="60"/></a>
+<a href="https://ultipro.github.io/GitHub-Users/"><img src="./icons/projects/github-users.ico" width="60"/></a>
 
 <hr/>
 
@@ -48,7 +49,7 @@
     </ul>
   <li>[:heavy_check_mark:] JavaScript</li>
     <ul>
-      <li>[:heavy_check_mark:] AJAX</li>
+      <li>[:heavy_check_mark:] AJAX & Fetch</li>
       <li>[:heavy_check_mark:] jQuery</li>
       <li>[:grey_question:] TypeScript</li>
       <li>[:grey_question:] React</li>
@@ -68,7 +69,7 @@
           <ul>
             <li>[:grey_question:] REST</li>
           </ul>
-        <li>[:grey_question:] ASP.NET MVC</li>
+        <li>[:heavy_check_mark:] ASP.NET MVC</li>
         <li>[:heavy_check_mark:] Razor Pages</li>
      </ul>
   <li>[:heavy_check_mark:] Python</li>
