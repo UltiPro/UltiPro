@@ -71,6 +71,7 @@
           </ul>
         <li>[:heavy_check_mark:] ASP.NET MVC</li>
         <li>[:heavy_check_mark:] Razor Pages</li>
+        <li>[:x:] Blazor</li>
      </ul>
   <li>[:heavy_check_mark:] Python</li>
      <ul>
