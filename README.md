@@ -57,10 +57,10 @@
       <li>[:x:] Vue</li>
       <li>[:x:] Node</li>
     </ul>
-  <li>[:heavy_check_mark:] .NET C#</li>
+  <li>[:heavy_check_mark:] C#</li>
      <ul>
         <li>[:grey_question:] LINQ</li>
-        <li>[:grey_question:] EF Core</li>
+        <li>[:grey_question:] Entity Framework Core</li>
         <li>[:heavy_check_mark:] WPF</li>
           <ul>
             <li>[:heavy_check_mark:] XAML</li>
@@ -69,7 +69,7 @@
           <ul>
             <li>[:grey_question:] REST</li>
           </ul>
-        <li>[:heavy_check_mark:] ASP.NET MVC</li>
+        <li>[:heavy_check_mark:] MVC</li>
         <li>[:heavy_check_mark:] Razor Pages</li>
         <li>[:x:] Blazor</li>
      </ul>
