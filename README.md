@@ -65,9 +65,9 @@
           <ul>
             <li>[:heavy_check_mark:] XAML</li>
           </ul>
-        <li>[:grey_question:] API</li>
+        <li>[:heavy_check_mark:] API</li>
           <ul>
-            <li>[:grey_question:] REST</li>
+            <li>[:heavy_check_mark:] REST</li>
           </ul>
         <li>[:heavy_check_mark:] MVC</li>
         <li>[:heavy_check_mark:] Razor Pages</li>
