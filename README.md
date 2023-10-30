@@ -45,7 +45,7 @@
   <li>[:heavy_check_mark:] CSS</li>
     <ul>
       <li>[:heavy_check_mark:] SCSS & SASS</li>
-      <li>[:heavy_check_mark:] BootStrap</li>
+      <li>[:heavy_check_mark:] Bootstrap</li>
     </ul>
   <li>[:heavy_check_mark:] JavaScript</li>
     <ul>
@@ -57,19 +57,16 @@
     </ul>
   <li>[:heavy_check_mark:] C#</li>
      <ul>
-        <li>[:grey_question:] LINQ</li>
-        <li>[:grey_question:] Entity Framework Core</li>
-        <li>[:heavy_check_mark:] WPF</li>
+        <li>[:grey_question:] Language Integrated Query (LINQ)</li>
+        <li>[:grey_question:] Entity Framework Core (EF Core)</li>
+        <li>[:heavy_check_mark:] .NET WPF</li>
+        <li>ASP .NET Core</li>
           <ul>
-            <li>[:heavy_check_mark:] XAML</li>
+            <li>[:heavy_check_mark:] Web API</li>
+            <li>[:heavy_check_mark:] MVC</li>
+            <li>[:heavy_check_mark:] Razor Pages</li>
+            <li>[:x:] Blazor</li>
           </ul>
-        <li>[:heavy_check_mark:] API</li>
-          <ul>
-            <li>[:heavy_check_mark:] REST</li>
-          </ul>
-        <li>[:heavy_check_mark:] MVC</li>
-        <li>[:heavy_check_mark:] Razor Pages</li>
-        <li>[:x:] Blazor</li>
      </ul>
   <li>[:heavy_check_mark:] Python</li>
      <ul>
