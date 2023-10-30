@@ -54,8 +54,6 @@
       <li>[:grey_question:] TypeScript</li>
       <li>[:grey_question:] React</li>
       <li>[:grey_question:] Angular</li>
-      <li>[:x:] Vue</li>
-      <li>[:x:] Node</li>
     </ul>
   <li>[:heavy_check_mark:] C#</li>
      <ul>
