@@ -55,10 +55,10 @@
       <li>[:grey_question:] React</li>
       <li>[:grey_question:] Angular</li>
     </ul>
-  <li>[:heavy_check_mark:] C#</li>
+  <li>[:heavy_check_mark:] .NET C#</li>
      <ul>
-        <li>[:grey_question:] Language Integrated Query (LINQ)</li>
-        <li>[:grey_question:] Entity Framework Core (EF Core)</li>
+        <li>[:grey_question:] .NET Language Integrated Query (LINQ)</li>
+        <li>[:grey_question:] .NET Entity Framework Core (EF Core)</li>
         <li>[:heavy_check_mark:] .NET WPF</li>
         <li>ASP .NET Core</li>
           <ul>
