@@ -50,6 +50,7 @@
     <ul>
       <li>[:heavy_check_mark:] AJAX & Fetch</li>
       <li>[:heavy_check_mark:] jQuery</li>
+      <li>[:heavy_check_mark:] Axios</li>
       <li>[:grey_question:] TypeScript</li>
       <li>[:grey_question:] React</li>
       <li>[:grey_question:] Angular</li>
