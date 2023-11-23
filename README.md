@@ -57,9 +57,9 @@
     </ul>
   <li>[:heavy_check_mark:] .NET C#</li>
      <ul>
-        <li>[:grey_question:] .NET Language Integrated Query (LINQ)</li>
-        <li>[:grey_question:] .NET Entity Framework Core (EF Core)</li>
-        <li>[:heavy_check_mark:] .NET WPF</li>
+        <li>[:heavy_check_mark:] Language Integrated Query (LINQ)</li>
+        <li>[:heavy_check_mark:] Entity Framework Core (EF Core)</li>
+        <li>[:heavy_check_mark:] WPF</li>
         <li>ASP .NET Core</li>
           <ul>
             <li>[:heavy_check_mark:] Web API</li>
