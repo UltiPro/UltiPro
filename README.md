@@ -33,86 +33,86 @@
 
 <hr/>
 
-[:heavy_check_mark:] -> All courses completed. Project written.<br/>
-[:grey_question:] -> Currently studying. Project in progress.<br/>
-[:x:] -> Familiarized with technology. Basic scripts written.<br/>
+[ :heavy_check_mark: ] -> All courses completed. Project written.<br/>
+[ :grey_question: ] -> Currently studying. Project in progress.<br/>
+[ :x: ] -> Familiarized with technology. Basic scripts written.<br/>
 
 ### Languages | Technologies
 
 <ul>
-  <li>[:heavy_check_mark:] HTML</li>
-  <li>[:heavy_check_mark:] CSS</li>
+  <li>[ :heavy_check_mark: ] HTML</li>
+  <li>[ :heavy_check_mark: ] CSS</li>
     <ul>
-      <li>[:heavy_check_mark:] SCSS & SASS</li>
-      <li>[:heavy_check_mark:] Bootstrap</li>
+      <li>[ :heavy_check_mark: ] SCSS & SASS</li>
+      <li>[ :heavy_check_mark: ] Bootstrap</li>
     </ul>
-  <li>[:heavy_check_mark:] JavaScript</li>
+  <li>[ :heavy_check_mark: ] JavaScript</li>
     <ul>
-      <li>[:heavy_check_mark:] AJAX & Fetch</li>
-      <li>[:heavy_check_mark:] jQuery</li>
-      <li>[:heavy_check_mark:] Axios</li>
-      <li>[:grey_question:] TypeScript</li>
-      <li>[:grey_question:] React</li>
-      <li>[:grey_question:] Angular</li>
+      <li>[ :heavy_check_mark: ] AJAX & Fetch</li>
+      <li>[ :heavy_check_mark: ] jQuery</li>
+      <li>[ :heavy_check_mark: ] Axios</li>
+      <li>[ :grey_question: ] TypeScript</li>
+      <li>[ :grey_question: ] React</li>
+      <li>[ :grey_question: ] Angular</li>
     </ul>
-  <li>[:heavy_check_mark:] .NET C#</li>
+  <li>[ :heavy_check_mark: ] .NET C#</li>
      <ul>
-        <li>[:heavy_check_mark:] Language Integrated Query (LINQ)</li>
-        <li>[:heavy_check_mark:] Entity Framework Core (EF Core)</li>
-        <li>[:heavy_check_mark:] WPF</li>
+        <li>[ :heavy_check_mark: ] Language Integrated Query (LINQ)</li>
+        <li>[ :heavy_check_mark: ] Entity Framework Core (EF Core)</li>
+        <li>[ :heavy_check_mark: ] WPF</li>
         <li>ASP .NET Core</li>
           <ul>
-            <li>[:heavy_check_mark:] Web API</li>
-            <li>[:heavy_check_mark:] MVC</li>
-            <li>[:heavy_check_mark:] Razor Pages</li>
-            <li>[:x:] Blazor</li>
+            <li>[ :heavy_check_mark: ] Web API</li>
+            <li>[ :heavy_check_mark: ] MVC</li>
+            <li>[ :heavy_check_mark: ] Razor Pages</li>
+            <li>[ :x: ] Blazor</li>
           </ul>
      </ul>
-  <li>[:heavy_check_mark:] Python</li>
+  <li>[ :heavy_check_mark: ] Python</li>
      <ul>
-        <li>[:heavy_check_mark:] Django</li>
-        <li>[:x:] Flask</li>
+        <li>[ :heavy_check_mark: ] Django</li>
+        <li>[ :x: ] Flask</li>
      </ul>
-  <li>[:heavy_check_mark:] SQL</li>
-  <li>[:heavy_check_mark:] Regex</li>
+  <li>[ :heavy_check_mark: ] SQL</li>
+  <li>[ :heavy_check_mark: ] Regex</li>
 </ul>
 
 <hr/>
 
-[:heavy_check_mark:] -> Worked with.<br/>
-[:x:] -> Not worked with.<br/>
+[ :heavy_check_mark: ] -> Worked with.<br/>
+[ :x: ] -> Not worked with.<br/>
 
 ### Special Formats
 
 <ul>  
-  <li>[:heavy_check_mark:] JSON</li>
-  <li>[:heavy_check_mark:] XML</li>
+  <li>[ :heavy_check_mark: ] JSON</li>
+  <li>[ :heavy_check_mark: ] XML</li>
 </ul>
 
 ### Other
 
 <ul>
-  <li>[:heavy_check_mark:] Emmet</li>
-  <li>[:heavy_check_mark:] Docker</li>
-  <li>[:heavy_check_mark:] Figma</li>
+  <li>[ :heavy_check_mark: ] Emmet</li>
+  <li>[ :heavy_check_mark: ] Docker</li>
+  <li>[ :heavy_check_mark: ] Figma</li>
 </ul>
 
 ### Databases
 
 <ul>
-  <li>[:heavy_check_mark:] Microsoft SQL Server</li>
+  <li>[ :heavy_check_mark: ] Microsoft SQL Server</li>
     <ul>
-      <li>[:heavy_check_mark:] SSMS</li>
+      <li>[ :heavy_check_mark: ] SSMS</li>
     </ul>
-  <li>[:heavy_check_mark:] Oracle SQL</li>
+  <li>[ :heavy_check_mark: ] Oracle SQL</li>
     <ul>
-      <li>[:heavy_check_mark:] SQL Developer</li>
+      <li>[ :heavy_check_mark: ] SQL Developer</li>
     </ul>
-  <li>[:heavy_check_mark:] SQLite</li>
-  <li>[:x:] MySQL</li>
-  <li>[:x:] PostgresSQL</li>
-  <li>[:x:] MongoDB</li>
-  <li>[:x:] Cassandra</li>
+  <li>[ :heavy_check_mark: ] SQLite</li>
+  <li>[ :x: ] MySQL</li>
+  <li>[ :x: ] PostgresSQL</li>
+  <li>[ :x: ] MongoDB</li>
+  <li>[ :x:]  Cassandra</li>
 </ul>
 
 <hr/>
