@@ -112,7 +112,7 @@
   <li>[ :x: ] MySQL</li>
   <li>[ :x: ] PostgresSQL</li>
   <li>[ :x: ] MongoDB</li>
-  <li>[ :x:]  Cassandra</li>
+  <li>[ :x: ]  Cassandra</li>
 </ul>
 
 <hr/>
