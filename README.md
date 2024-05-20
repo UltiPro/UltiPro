@@ -111,8 +111,8 @@
   <li>[ :heavy_check_mark: ] SQLite</li>
   <li>[ :x: ] MySQL</li>
   <li>[ :x: ] PostgresSQL</li>
-  <li>[ :x: ] MongoDB</li>
-  <li>[ :x: ]  Cassandra</li>
+  <li>[ :heavy_check_mark: ] MongoDB</li>
+  <li>[ :x: ] Cassandra</li>
 </ul>
 
 <hr/>
