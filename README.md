@@ -52,7 +52,7 @@
       <li>[ :heavy_check_mark: ] AJAX & Fetch</li>
       <li>[ :heavy_check_mark: ] jQuery</li>
       <li>[ :heavy_check_mark: ] Axios</li>
-      <li>[ :grey_question: ] TypeScript</li>
+      <li>[ :heavy_check_mark: ] TypeScript</li>
       <li>[ :grey_question: ] React</li>
       <li>[ :grey_question: ] Angular</li>
     </ul>
@@ -72,7 +72,7 @@
   <li>[ :heavy_check_mark: ] Python</li>
      <ul>
         <li>[ :heavy_check_mark: ] Django</li>
-        <li>[ :x: ] Flask</li>
+        <li>[ :grey_question: ] Flask</li>
      </ul>
   <li>[ :heavy_check_mark: ] SQL</li>
   <li>[ :heavy_check_mark: ] Regex</li>
@@ -83,17 +83,11 @@
 [ :heavy_check_mark: ] -> Worked with.<br/>
 [ :x: ] -> Not worked with.<br/>
 
-### Special Formats
-
-<ul>  
-  <li>[ :heavy_check_mark: ] JSON</li>
-  <li>[ :heavy_check_mark: ] XML</li>
-</ul>
-
 ### Other
 
 <ul>
   <li>[ :heavy_check_mark: ] Emmet</li>
+  <li>[ :heavy_check_mark: ] Webpack</li>
   <li>[ :heavy_check_mark: ] Docker</li>
 </ul>
 
@@ -118,3 +112,5 @@
 <hr/>
 
 <h3 align="center"><i>See You Later, Alligator!</i></h3>
+
+json, xml
