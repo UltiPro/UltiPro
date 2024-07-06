@@ -74,6 +74,7 @@
         <li>[ :heavy_check_mark: ] Django</li>
         <li>[ :grey_question: ] Flask</li>
      </ul>
+  <li>[ :x: ] Rust</li>
   <li>[ :heavy_check_mark: ] SQL</li>
   <li>[ :heavy_check_mark: ] Regex</li>
 </ul>
