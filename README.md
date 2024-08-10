@@ -34,9 +34,9 @@
 
 <hr/>
 
-[ :heavy_check_mark: ] -> All courses completed. Project written.<br/>
-[ :grey_question: ] -> Currently studying. Project in progress.<br/>
-[ :x: ] -> Familiarized with technology. Basic scripts written.<br/>
+[ :heavy_check_mark: ] Course completed. Project written.<br/>
+[ :grey_question: ] Course in progress. Project in progress.<br/>
+[ :x: ] Course in plans. Project in plans.<br/>
 
 ### Languages | Technologies
 
@@ -53,8 +53,7 @@
       <li>[ :heavy_check_mark: ] jQuery</li>
       <li>[ :heavy_check_mark: ] Axios</li>
       <li>[ :heavy_check_mark: ] TypeScript</li>
-      <li>[ :grey_question: ] React</li>
-      <li>[ :grey_question: ] Angular</li>
+      <li>[ :grey_question: ] Vue</li>
     </ul>
   <li>[ :heavy_check_mark: ] .NET C#</li>
      <ul>
@@ -74,6 +73,7 @@
         <li>[ :heavy_check_mark: ] Django</li>
         <li>[ :grey_question: ] Flask</li>
      </ul>
+  <li>[ :x: ] C/C++</li>
   <li>[ :x: ] Rust</li>
   <li>[ :heavy_check_mark: ] SQL</li>
   <li>[ :heavy_check_mark: ] Regex</li>
@@ -81,16 +81,9 @@
 
 <hr/>
 
-[ :heavy_check_mark: ] -> Worked with.<br/>
-[ :x: ] -> Not worked with.<br/>
-
-### Other
-
-<ul>
-  <li>[ :heavy_check_mark: ] Emmet</li>
-  <li>[ :heavy_check_mark: ] Webpack</li>
-  <li>[ :heavy_check_mark: ] Docker</li>
-</ul>
+[ :heavy_check_mark: ] Mastered<br/>
+[ :grey_question: ] Used<br/>
+[ :x: ] Planned<br/>
 
 ### Databases
 
@@ -99,19 +92,38 @@
     <ul>
       <li>[ :heavy_check_mark: ] SSMS</li>
     </ul>
-  <li>[ :heavy_check_mark: ] Oracle SQL</li>
+  <li>[ :grey_question: ] Oracle SQL</li>
     <ul>
-      <li>[ :heavy_check_mark: ] SQL Developer</li>
+      <li>[ :grey_question: ] SQL Developer</li>
     </ul>
   <li>[ :heavy_check_mark: ] SQLite</li>
   <li>[ :x: ] MySQL</li>
   <li>[ :x: ] PostgresSQL</li>
-  <li>[ :heavy_check_mark: ] MongoDB</li>
-  <li>[ :x: ] Cassandra</li>
+  <li>[ :grey_question: ] MongoDB</li>
+</ul>
+
+### Cloud Technologies
+
+<ul>
+  <li>[ :grey_question: ] Azure</li>
+  <li>[ :x: ] Google Cloud Platform</li>
+</ul>
+
+### Engines
+
+<ul>
+  <li>[ :x: ] Unity</li>
+  <li>[ :x: ] Unreal Engine 5</li>
+</ul>
+
+### Other
+
+<ul>
+  <li>[ :heavy_check_mark: ] Emmet</li>
+  <li>[ :heavy_check_mark: ] Webpack</li>
+  <li>[ :grey_question: ] Docker</li>
 </ul>
 
 <hr/>
 
 <h3 align="center"><i>See You Later, Alligator!</i></h3>
-
-json, xml
