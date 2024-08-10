@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋 my name is Patrick, known as Ulti 😄</h1>
 
-<h2 align="center">I am male freelancer, studying at Bialystok Technical University</h2>
+<h2 align="center">Currently studying at Bialystok Technical University and working for DS360</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&hide=HTML,PHP,C,C%2B%2b,Java,Makefile,Objective-C,Dockerfile,SHELL,HACK,GLSL,Lua,PLSQL" alt="Ulti's most used languages" align="right" width="350"/>
 
-<h3>Preferences :point_right: Full-Stack Developer in ...</h3>
+<h3>:point_right: Full-Stack Universal Developer</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html5.svg" width="60"/></a><br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css3.svg" width="60"/></a> <a href="https://getbootstrap.com/"><img src="./icons/bootstrap5.svg" width="60"/></a> <a href="https://sass-lang.com/"><img src="./icons/sass.svg" width="60"/></a><br/>
