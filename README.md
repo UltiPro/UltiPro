@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 my name is Patrick, known as Ulti 😄</h1>
 
-<h2 align="center">Currently studying at Bialystok Technical University and working for DS360</h2>
+<h2 align="center">I'm student at the Bialystok Technical University and employee of DS360.</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&hide=HTML,PHP,C,C%2B%2b,Java,Makefile,Objective-C,Dockerfile,SHELL,HACK,GLSL,Lua,PLSQL" alt="Ulti's most used languages" align="right" width="350"/>
 
