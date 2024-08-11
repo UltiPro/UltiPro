@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋 my name is Patrick, known as Ulti 😄</h1>
+<h1 align="center">Hi there :wave: my name is Patrick, known as Ulti :smile:</h1>
 
-<h2 align="center">I'm a student at the Bialystok Technical University and an employee of DS360</h2>
+<h2 align="center">I'm a student :man_student: at the Bialystok Technical University :school: and an employee of DS360 :office:</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&theme=midnight-purple&border_radius=0&hide=HTML,Java,C,PHP,Objective-C,SHELL,Makefile,HACK,GLSL,Lua,Dockerfile" alt="Ulti's most used languages" align="right" width="350"/>
 
@@ -44,7 +44,7 @@
 
 <a href="https://github.com/UltiPro/Certifications"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ultipro&repo=certifications&theme=midnight-purple&border_radius=0" alt="UltiPro certifications" align="right" width="350"></a>
 
-### Hosted Projects
+### :globe_with_meridians: Hosted Projects
 
 <a href="https://ultipro.github.io/TicTacToe/"><img src="./icons/projects/tictactoe.ico" width="60"/></a>
 <a href="https://ultipro.github.io/GitHub-Users/"><img src="./icons/projects/github-users.ico" width="60"/></a>
@@ -56,7 +56,7 @@
 [ :grey_question: ] Course in progress. Project in progress.<br/>
 [ :x: ] Course in plans. Project in plans.<br/>
 
-### Languages | Technologies
+### :hammer_and_wrench: Languages | Technologies
 
 <ul>
   <li>[ :heavy_check_mark: ] HTML</li>
@@ -103,7 +103,7 @@
 [ :grey_question: ] Used<br/>
 [ :x: ] Planned<br/>
 
-### Databases
+### :card_file_box: Databases
 
 <ul>
   <li>[ :heavy_check_mark: ] Microsoft SQL Server + SSMS</li>
@@ -114,21 +114,21 @@
   <li>[ :grey_question: ] MongoDB</li>
 </ul>
 
-### Cloud Technologies
+### :cloud: Cloud Technologies
 
 <ul>
   <li>[ :grey_question: ] Microsoft Azure</li>
   <li>[ :x: ] Google Cloud Platform</li>
 </ul>
 
-### Engines
+### :gear: Engines
 
 <ul>
   <li>[ :x: ] Unity</li>
   <li>[ :x: ] Unreal Engine 5</li>
 </ul>
 
-### Other
+### :link: Others
 
 <ul>
   <li>[ :heavy_check_mark: ] Emmet</li>
@@ -139,4 +139,4 @@
 
 <hr/>
 
-<h3 align="center"><i>See You Later, Alligator!</i></h3>
+<h3 align="center">:wave: <i>See You Later, Alligator!</i> :crocodile:</h3>
