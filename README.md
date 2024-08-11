@@ -23,9 +23,9 @@
 <br/>
 <a href="https://www.python.org/"><img src="./icons/langs&techs/python.svg" width="60"/></a>
 <a href="https://www.djangoproject.com/"><img src="./icons/langs&techs/django.svg" width="60"/></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="./icons/langs&techs/flask.svg" width="60"/></a>
+<a href="https://flask.palletsprojects.com/en/"><img src="./icons/langs&techs/flask.svg" width="60"/></a>
 <br/>
-<a href="https://devdocs.io/cpp/"><img src="./icons/langs&techs/cpp.svg" width="60"/></a>
+<a href="https://isocpp.org/"><img src="./icons/langs&techs/cpp.svg" width="60"/></a>
 <a href="https://www.rust-lang.org/"><img src="./icons/langs&techs/rust.svg" width="60"/></a>
 <br/>
 <a href="https://azure.microsoft.com/en-us/"><img src="./icons/clouds/azure.svg" width="60"/></a>
