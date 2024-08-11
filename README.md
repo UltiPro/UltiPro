@@ -73,6 +73,7 @@
       <li>[ :heavy_check_mark: ] TypeScript</li>
       <li>[ :grey_question: ] Vue</li>
     </ul>
+  <li>[ :x: ] C++</li>
   <li>[ :heavy_check_mark: ] .NET C#</li>
      <ul>
         <li>[ :heavy_check_mark: ] Language Integrated Query (LINQ)</li>
@@ -91,7 +92,6 @@
         <li>[ :heavy_check_mark: ] Django</li>
         <li>[ :grey_question: ] Flask</li>
      </ul>
-  <li>[ :x: ] C++</li>
   <li>[ :x: ] Rust</li>
   <li>[ :heavy_check_mark: ] SQL</li>
   <li>[ :heavy_check_mark: ] Regex</li>
@@ -106,14 +106,8 @@
 ### Databases
 
 <ul>
-  <li>[ :heavy_check_mark: ] Microsoft SQL Server</li>
-    <ul>
-      <li>[ :heavy_check_mark: ] SSMS</li>
-    </ul>
-  <li>[ :grey_question: ] Oracle SQL</li>
-    <ul>
-      <li>[ :grey_question: ] SQL Developer</li>
-    </ul>
+  <li>[ :heavy_check_mark: ] Microsoft SQL Server + SSMS</li>
+  <li>[ :grey_question: ] Oracle SQL + Oracle SQL Developer</li>
   <li>[ :heavy_check_mark: ] SQLite</li>
   <li>[ :x: ] MySQL</li>
   <li>[ :x: ] PostgresSQL</li>
