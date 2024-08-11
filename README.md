@@ -6,27 +6,30 @@
 
 <h3>:point_right: Full-Stack Universal Developer</h3>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html5.svg" width="60"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css3.svg" width="60"/></a>
-<a href="https://sass-lang.com/"><img src="./icons/sass.svg" width="60"/></a>
-<a href="https://getbootstrap.com/"><img src="./icons/bootstrap5.svg" width="60"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./icons/javascript.svg" width="60"/></a>
-<a href="https://jquery.com/"><img src="./icons/jquery.svg" width="60"/></a> 
-<a href="https://www.axios.com/"><img src="./icons/axios.svg" width="60"/></a>
-<a href="https://www.typescriptlang.org/"><img src="./icons/typescript.svg" width="60"/></a>
-<a href="https://vuejs.org/"><img src="./icons/vue.svg" width="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/langs&techs/html5.svg" width="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/langs&techs/css3.svg" width="60"/></a>
+<a href="https://sass-lang.com/"><img src="./icons/langs&techs/sass.svg" width="60"/></a>
+<a href="https://getbootstrap.com/"><img src="./icons/langs&techs/bootstrap.svg" width="60"/></a>
 <br/>
-<a href="https://dotnet.microsoft.com/en-us/"><img src="./icons/dot-net.png" width="60"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./icons/csharp.svg" width="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./icons/langs&techs/javascript.svg" width="60"/></a>
+<a href="https://jquery.com/"><img src="./icons/langs&techs/jquery.svg" width="60"/></a> 
+<a href="https://www.axios.com/"><img src="./icons/langs&techs/axios.svg" width="60"/></a>
+<a href="https://www.typescriptlang.org/"><img src="./icons/langs&techs/typescript.svg" width="60"/></a>
+<a href="https://vuejs.org/"><img src="./icons/langs&techs/vue.svg" width="60"/></a>
 <br/>
-<a href="https://www.python.org/"><img src="./icons/python.svg" width="60"/></a>
-<a href="https://www.djangoproject.com/"><img src="./icons/django.svg" width="60"/></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="./icons/flask.svg" width="60"/></a>
+<a href="https://dotnet.microsoft.com/en-us/"><img src="./icons/langs&techs/dotnet.png" width="60"/></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="./icons/langs&techs/aspdotnet.svg" width="60"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./icons/langs&techs/csharp.svg" width="60"/></a>
 <br/>
-<a href="https://devdocs.io/cpp/"><img src="./icons/cpp.svg" width="60"/></a>
+<a href="https://www.python.org/"><img src="./icons/langs&techs/python.svg" width="60"/></a>
+<a href="https://www.djangoproject.com/"><img src="./icons/langs&techs/django.svg" width="60"/></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="./icons/langs&techs/flask.svg" width="60"/></a>
 <br/>
-<a href="https://www.rust-lang.org/"><img src="./icons/rust.svg" width="60"/></a>
+<a href="https://devdocs.io/cpp/"><img src="./icons/langs&techs/cpp.svg" width="60"/></a>
+<a href="https://www.rust-lang.org/"><img src="./icons/langs&techs/rust.svg" width="60"/></a>
 <br/>
+<a href="https://azure.microsoft.com/en-us/"><img src="./icons/clouds/azure.svg" width="60"/></a>
+<a href="https://cloud.google.com/"><img src="./icons/clouds/googlecloudplatform.svg" width="60"/></a>
 
 <hr/>
   
@@ -88,7 +91,7 @@
         <li>[ :heavy_check_mark: ] Django</li>
         <li>[ :grey_question: ] Flask</li>
      </ul>
-  <li>[ :x: ] C/C++</li>
+  <li>[ :x: ] C++</li>
   <li>[ :x: ] Rust</li>
   <li>[ :heavy_check_mark: ] SQL</li>
   <li>[ :heavy_check_mark: ] Regex</li>
@@ -136,6 +139,7 @@
 <ul>
   <li>[ :heavy_check_mark: ] Emmet</li>
   <li>[ :heavy_check_mark: ] Webpack</li>
+  <li>[ :heavy_check_mark: ] Postman</li>
   <li>[ :grey_question: ] Docker</li>
 </ul>
 
