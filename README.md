@@ -1,6 +1,6 @@
 <h1 align="center">Hi there :wave: my name is Patrick, known as Ulti :smile:</h1>
 
-<h2 align="center">I'm a student :man_student: at the Bialystok Technical University :school: and an employee of DS360 :office:</h2>
+<h2 align="center">I'm a student :mortar_board: at the Bialystok Technical University :classical_building: and an employee :briefcase: of DS360</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&theme=midnight-purple&border_radius=0&hide=HTML,Java,C,PHP,Objective-C,SHELL,Makefile,HACK,GLSL,Lua,Dockerfile" alt="Ulti's most used languages" align="right" width="350"/>
 
@@ -31,7 +31,7 @@
 <a href="https://azure.microsoft.com/en-us/"><img src="./icons/clouds/microsoftazure.svg" width="60"/></a>
 <a href="https://cloud.google.com/"><img src="./icons/clouds/googlecloudplatform.svg" width="60"/></a>
   
-### Socials
+### :iphone: Socials
 
 <img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="UltiPro prfile views" align="right" width="350" height="60"/>
 
