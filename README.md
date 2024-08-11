@@ -117,7 +117,7 @@
 ### Cloud Technologies
 
 <ul>
-  <li>[ :grey_question: ] Azure</li>
+  <li>[ :grey_question: ] Microsoft Azure</li>
   <li>[ :x: ] Google Cloud Platform</li>
 </ul>
 
