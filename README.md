@@ -13,11 +13,11 @@
 <br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./icons/langs&techs/javascript.svg" width="60"/></a>
 <a href="https://jquery.com/"><img src="./icons/langs&techs/jquery.svg" width="60"/></a> 
-<a href="https://www.axios.com/"><img src="./icons/langs&techs/axios.svg" width="60"/></a>
+<a href="https://axios-http.com/"><img src="./icons/langs&techs/axios.svg" width="60"/></a>
 <a href="https://www.typescriptlang.org/"><img src="./icons/langs&techs/typescript.svg" width="60"/></a>
 <a href="https://vuejs.org/"><img src="./icons/langs&techs/vue.svg" width="60"/></a>
 <br/>
-<a href="https://dotnet.microsoft.com/en-us/"><img src="./icons/langs&techs/dotnet.png" width="60"/></a>
+<a href="https://dotnet.microsoft.com/en-us/"><img src="./icons/langs&techs/dotnet.svg" width="60"/></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="./icons/langs&techs/aspdotnet.svg" width="60"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./icons/langs&techs/csharp.svg" width="60"/></a>
 <br/>
@@ -28,7 +28,7 @@
 <a href="https://isocpp.org/"><img src="./icons/langs&techs/cpp.svg" width="60"/></a>
 <a href="https://www.rust-lang.org/"><img src="./icons/langs&techs/rust.svg" width="60"/></a>
 <br/>
-<a href="https://azure.microsoft.com/en-us/"><img src="./icons/clouds/azure.svg" width="60"/></a>
+<a href="https://azure.microsoft.com/en-us/"><img src="./icons/clouds/microsoftazure.svg" width="60"/></a>
 <a href="https://cloud.google.com/"><img src="./icons/clouds/googlecloudplatform.svg" width="60"/></a>
   
 ### Socials
@@ -37,7 +37,7 @@
 
 <a href="https://www.linkedin.com/in/patryk-w%C3%B3jtowicz-534b42270/"><img src="./icons/linkedin.svg" width="60"/></a>
 <a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.svg" width="60"/></a>
-<a href="https://www.instagram.com/ulti_pl/"><img src="./icons/instagram.png" width="60"/></a>
+<a href="https://www.instagram.com/ulti_pl/"><img src="./icons/instagram.svg" width="60"/></a>
 <a href="https://steamcommunity.com/id/ulti_pro/"><img src="./icons/steam.png" width="60"/></a>
 
 <hr/>
