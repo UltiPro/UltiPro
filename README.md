@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm a student at the Bialystok Technical University and an employee of DS360</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&hide=HTML,Java,C,PHP,Objective-C,SHELL,Makefile,HACK,GLSL,Lua,Dockerfile" alt="Ulti's most used languages" align="right" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&theme=midnight-purple&hide=HTML,Java,C,PHP,Objective-C,SHELL,Makefile,HACK,GLSL,Lua,Dockerfile" alt="Ulti's most used languages" align="right" width="350"/>
 
 <h3>:point_right: Full-Stack Universal Developer</h3>
 
@@ -30,12 +30,10 @@
 <br/>
 <a href="https://azure.microsoft.com/en-us/"><img src="./icons/clouds/azure.svg" width="60"/></a>
 <a href="https://cloud.google.com/"><img src="./icons/clouds/googlecloudplatform.svg" width="60"/></a>
-
-<hr/>
   
 ### Socials
 
-<img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="UltiPro prfile views" align="right" width="350" height="60"/>
+<img src="https://komarev.com/ghpvc/?username=UltiPro&label=Profile%20views&color=blueviolet&style=plastic" alt="UltiPro prfile views" align="right" width="350" height="60"/>
 
 <a href="https://www.linkedin.com/in/patryk-w%C3%B3jtowicz-534b42270/"><img src="./icons/linkedin.svg" width="60"/></a>
 <a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.svg" width="60"/></a>
@@ -43,6 +41,8 @@
 <a href="https://steamcommunity.com/id/ulti_pro/"><img src="./icons/steam.png" width="60"/></a>
 
 <hr/>
+
+<a href="https://github.com/UltiPro/Certifications"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ultipro&repo=certifications&theme=midnight-purple" alt="UltiPro certifications" align="right" width="350"></a>
 
 ### Hosted Projects
 
