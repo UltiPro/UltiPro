@@ -28,7 +28,7 @@
 <a href="https://isocpp.org/"><img src="./icons/langs&techs/cpp.svg" width="60"/></a>
 <a href="https://www.rust-lang.org/"><img src="./icons/langs&techs/rust.svg" width="60"/></a>
 <br/>
-<a href="https://azure.microsoft.com/en-us/"><img src="./icons/clouds/azure.svg" width="60"/></a>
+<a href="https://azure.microsoft.com/en-us/"><img src="./icons/clouds/microsoftazure.svg" width="60"/></a>
 <a href="https://cloud.google.com/"><img src="./icons/clouds/googlecloudplatform.svg" width="60"/></a>
   
 ### Socials
