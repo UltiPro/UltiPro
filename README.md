@@ -1,17 +1,32 @@
 <h1 align="center">Hi there 👋 my name is Patrick, known as Ulti 😄</h1>
 
-<h2 align="center">I'm student at the Bialystok Technical University and employee of DS360.</h2>
+<h2 align="center">I'm a student at the Bialystok Technical University and an employee of DS360</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&hide=HTML,PHP,C,C%2B%2b,Java,Makefile,Objective-C,Dockerfile,SHELL,HACK,GLSL,Lua,PLSQL" alt="Ulti's most used languages" align="right" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&hide=HTML,Java,C,PHP,Objective-C,SHELL,Makefile,HACK,GLSL,Lua,Dockerfile" alt="Ulti's most used languages" align="right" width="350"/>
 
 <h3>:point_right: Full-Stack Universal Developer</h3>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html5.svg" width="60"/></a><br/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css3.svg" width="60"/></a> <a href="https://getbootstrap.com/"><img src="./icons/bootstrap5.svg" width="60"/></a> <a href="https://sass-lang.com/"><img src="./icons/sass.svg" width="60"/></a><br/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./icons/javascript.svg" width="60"/></a> <a href="https://jquery.com/"><img src="./icons/jquery.svg" width="60"/></a> <a href="https://www.typescriptlang.org/"><img src="./icons/typescript.svg" width="60"/></a><br/>
-<a href="https://react.dev/"><img src="./icons/react.svg" width="60"/></a> <a href="https://angular.io/"><img src="./icons/angular.svg" width="60"/></a> <br/>
-<a href="https://dotnet.microsoft.com/en-us/"><img src="./icons/dot-net.png" width="60"/></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./icons/csharp.svg" width="60"/></a><br/>
-<a href="https://www.python.org/"><img src="./icons/python.svg" width="60"/></a> <a href="https://www.djangoproject.com/"><img src="./icons/django.svg" width="60"/></a><br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html5.svg" width="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css3.svg" width="60"/></a>
+<a href="https://sass-lang.com/"><img src="./icons/sass.svg" width="60"/></a>
+<a href="https://getbootstrap.com/"><img src="./icons/bootstrap5.svg" width="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./icons/javascript.svg" width="60"/></a>
+<a href="https://jquery.com/"><img src="./icons/jquery.svg" width="60"/></a> 
+<a href="https://www.axios.com/"><img src="./icons/axios.svg" width="60"/></a>
+<a href="https://www.typescriptlang.org/"><img src="./icons/typescript.svg" width="60"/></a>
+<a href="https://vuejs.org/"><img src="./icons/vue.svg" width="60"/></a>
+<br/>
+<a href="https://dotnet.microsoft.com/en-us/"><img src="./icons/dot-net.png" width="60"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./icons/csharp.svg" width="60"/></a>
+<br/>
+<a href="https://www.python.org/"><img src="./icons/python.svg" width="60"/></a>
+<a href="https://www.djangoproject.com/"><img src="./icons/django.svg" width="60"/></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="./icons/flask.svg" width="60"/></a>
+<br/>
+<a href="https://devdocs.io/cpp/"><img src="./icons/cpp.svg" width="60"/></a>
+<br/>
+<a href="https://www.rust-lang.org/"><img src="./icons/rust.svg" width="60"/></a>
+<br/>
 
 <hr/>
   
