@@ -37,7 +37,7 @@
 
 <a href="https://www.linkedin.com/in/patryk-w%C3%B3jtowicz-534b42270/"><img src="./icons/linkedin.svg" width="60"/></a>
 <a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.svg" width="60"/></a>
-<a href="https://www.instagram.com/ulti_pl/"><img src="./icons/instagram.png" width="60"/></a>
+<a href="https://www.instagram.com/ulti_pl/"><img src="./icons/instagram.svg" width="60"/></a>
 <a href="https://steamcommunity.com/id/ulti_pro/"><img src="./icons/steam.png" width="60"/></a>
 
 <hr/>
