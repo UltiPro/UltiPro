@@ -13,7 +13,7 @@
 <br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./icons/langs&techs/javascript.svg" width="60"/></a>
 <a href="https://jquery.com/"><img src="./icons/langs&techs/jquery.svg" width="60"/></a> 
-<a href="https://www.axios.com/"><img src="./icons/langs&techs/axios.svg" width="60"/></a>
+<a href="https://axios-http.com/"><img src="./icons/langs&techs/axios.svg" width="60"/></a>
 <a href="https://www.typescriptlang.org/"><img src="./icons/langs&techs/typescript.svg" width="60"/></a>
 <a href="https://vuejs.org/"><img src="./icons/langs&techs/vue.svg" width="60"/></a>
 <br/>
