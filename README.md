@@ -17,7 +17,7 @@
 <a href="https://www.typescriptlang.org/"><img src="./icons/langs&techs/typescript.svg" width="60"/></a>
 <a href="https://vuejs.org/"><img src="./icons/langs&techs/vue.svg" width="60"/></a>
 <br/>
-<a href="https://dotnet.microsoft.com/en-us/"><img src="./icons/langs&techs/dotnet.png" width="60"/></a>
+<a href="https://dotnet.microsoft.com/en-us/"><img src="./icons/langs&techs/dotnet.svg" width="60"/></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="./icons/langs&techs/aspdotnet.svg" width="60"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./icons/langs&techs/csharp.svg" width="60"/></a>
 <br/>
