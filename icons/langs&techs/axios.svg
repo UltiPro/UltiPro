@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256px" height="256px" viewBox="0 0 256 256" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(14.117647%,16.078431%,21.960784%);fill-opacity:1;" d="M 60 0 L 196 0 C 229.136719 0 256 26.863281 256 60 L 256 196 C 256 229.136719 229.136719 256 196 256 L 60 256 C 26.863281 256 0 229.136719 0 196 L 0 60 C 0 26.863281 26.863281 0 60 0 Z M 60 0 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(35.294118%,16.078431%,89.411765%);fill-opacity:1;" d="M 72.914062 94.449219 L 120.824219 54.359375 L 120.890625 214.457031 L 104.585938 228 L 104.316406 94.859375 Z M 72.914062 94.449219 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(35.294118%,16.078431%,89.411765%);fill-opacity:1;" d="M 183.085938 161.546875 L 135.175781 201.640625 L 135.109375 41.542969 L 151.414062 28 L 151.683594 161.140625 Z M 183.085938 161.546875 "/>
-</g>
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="122 122 256 256" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="#242938" rx="60" x="122" y="122" transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)"/>
+  <path fill="#5a29e4" d="M 198.083 218.382 L 243.236 180.596 L 243.298 331.486 L 227.932 344.25 L 227.678 218.763 L 198.083 218.382 Z" transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)"/>
+  <path fill="#5a29e4" d="M 301.918 281.619 L 256.766 319.405 L 256.701 168.514 L 272.07 155.75 L 272.323 281.238 L 301.918 281.619 Z" transform="matrix(1, 0, 0, 1, 0, 7.105427357601002e-15)"/>
 </svg>
