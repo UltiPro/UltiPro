@@ -44,9 +44,9 @@
 
 ### :globe_with_meridians: Hosted Projects
 
-<a href="https://ultipro.github.io/TicTacToe/"><img src="./icons/projects/tictactoe.ico" width="60"/></a>
-<a href="https://ultipro.github.io/GitHub-Users/"><img src="./icons/projects/github-users.ico" width="60"/></a>
-<a href="https://ultipro.github.io/Memory-Color-Master/"><img src="./icons/projects/memory-color-master.ico" width="60"/></a>
+<a href="https://ultipro.github.io/TicTacToe/"><img src="./icons/projects/tictactoe.svg" width="60"/></a>
+<a href="https://ultipro.github.io/GitHub-Users/"><img src="./icons/projects/github-users.svg" width="60"/></a>
+<a href="https://ultipro.github.io/Memory-Color-Master/"><img src="./icons/projects/memory-color-master.svg" width="60"/></a>
 
 <hr/>
 
