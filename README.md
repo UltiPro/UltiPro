@@ -12,7 +12,7 @@
 <a href="https://getbootstrap.com/"><img src="./icons/langs&techs/bootstrap.svg" width="60"/></a>
 <br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./icons/langs&techs/javascript.svg" width="60"/></a>
-<a href="https://jquery.com/"><img src="./icons/langs&techs/jquery.svg" width="60"/></a> 
+<a href="https://jquery.com/"><img src="./icons/langs&techs/jquery.svg" width="60"/></a>
 <a href="https://axios-http.com/"><img src="./icons/langs&techs/axios.svg" width="60"/></a>
 <a href="https://www.typescriptlang.org/"><img src="./icons/langs&techs/typescript.svg" width="60"/></a>
 <a href="https://vuejs.org/"><img src="./icons/langs&techs/vue.svg" width="60"/></a>
@@ -30,7 +30,7 @@
 <br/>
 <a href="https://azure.microsoft.com/en-us/"><img src="./icons/clouds/microsoftazure.svg" width="60"/></a>
 <a href="https://cloud.google.com/"><img src="./icons/clouds/googlecloudplatform.svg" width="60"/></a>
-  
+
 ### :iphone: Socials
 
 <img src="https://komarev.com/ghpvc/?username=UltiPro&color=blueviolet&style=for-the-badge" alt="UltiPro Profile Views" align="right" width="350" height="60"/>
