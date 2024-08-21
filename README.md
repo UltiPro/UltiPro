@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm a student :mortar_board: at the Bialystok Technical University :classical_building: and an employee :briefcase: of DS360</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&theme=dark&text_color=ffffff&border_radius=0&hide=HTML,Java,C,PHP,Objective-C,SHELL,Makefile,HACK,GLSL,Lua,Dockerfile" alt="UltiPro Most Used Languages" align="right" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&theme=dark&text_color=ffffff&border_radius=0&hide=HTML,Java,C,PHP,Objective-C,SHELL,Makefile,HACK,GLSL,Lua,Dockerfile" alt="Patryk 'UltiPro' Wójtowicz Most Used Languages" align="right" width="350"/>
 
 <h3>:point_right: Full-Stack Universal Developer</h3>
 
@@ -33,14 +33,14 @@
 
 ### :iphone: Socials
 
-<img src="https://komarev.com/ghpvc/?username=UltiPro&color=blueviolet&style=for-the-badge" alt="UltiPro Profile Views" align="right" width="350" height="60"/>
+<img src="https://komarev.com/ghpvc/?username=UltiPro&color=blueviolet&style=for-the-badge" alt="Patryk 'UltiPro' Wójtowicz Profile Views" align="right" width="350" height="60"/>
 
 <a href="https://www.linkedin.com/in/patryk-w%C3%B3jtowicz-534b42270/"><img src="./icons/linkedin.svg" width="60"/></a>
 <a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.svg" width="60"/></a>
 <a href="https://www.instagram.com/ulti_pl/"><img src="./icons/instagram.svg" width="60"/></a>
 <a href="https://steamcommunity.com/id/ulti_pro/"><img src="./icons/steam.svg" width="60"/></a>
 
-<hr/>
+<a href="https://github.com/UltiPro/Certifications"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ultipro&repo=certifications&theme=dark&text_color=ffffff&border_radius=0" alt="Patryk 'UltiPro' Wójtowicz Certifications" align="right" width="350" /></a>
 
 ### :globe_with_meridians: Hosted Projects
 
