@@ -47,6 +47,7 @@
 <a href="https://ultipro.github.io/TicTacToe/"><img src="./icons/projects/tictactoe.svg" width="60"/></a>
 <a href="https://ultipro.github.io/GitHub-Users/"><img src="./icons/projects/github-users.svg" width="60"/></a>
 <a href="https://ultipro.github.io/Memory-Color-Master/"><img src="./icons/projects/memory-color-master.svg" width="60"/></a>
+<a href="https://ultipro.github.io/JustDoIt/"><img src="./icons/projects/justdoit.svg" width="60"/></a>
 
 <hr/>
 
