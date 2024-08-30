@@ -110,6 +110,7 @@
   <li>[ :heavy_check_mark: ] SQLite</li>
   <li>[ :x: ] MySQL</li>
   <li>[ :x: ] PostgresSQL</li>
+  <li>[ :heavy_check_mark: ] MariaDB</li>
   <li>[ :grey_question: ] MongoDB</li>
 </ul>
 
