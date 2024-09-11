@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&theme=dark&text_color=ffffff&border_radius=0&hide=HTML,Java,C,PHP,Objective-C,SHELL,Makefile,HACK,GLSL,Lua,Dockerfile" alt="Patryk 'UltiPro' Wójtowicz Most Used Languages" align="right" width="350"/>
 
-### :point_right: Full-Stack Universal Developer
+<h3>:point_right: Full-Stack Universal Developer</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/langs&techs/html5.svg" width="60"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/langs&techs/css3.svg" width="60"/></a>
