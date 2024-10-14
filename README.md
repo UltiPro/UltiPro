@@ -89,7 +89,7 @@
   <li>[ :heavy_check_mark: ] Python</li>
      <ul>
         <li>[ :heavy_check_mark: ] Django</li>
-        <li>[ :grey_question: ] Flask</li>
+        <li>[ :heavy_check_mark: ] Flask</li>
      </ul>
   <li>[ :x: ] Rust</li>
   <li>[ :heavy_check_mark: ] SQL</li>
