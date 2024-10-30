@@ -118,7 +118,10 @@
 
 <ul>
   <li>[ :grey_question: ] Microsoft Azure</li>
-  <li>[ :x: ] Google Cloud Platform</li>
+  <li>[ :grey_question: ] Google Cloud Platform</li>
+    <ul>
+      <li>[ :grey_question: ] Vertex AI</li>
+    </ul>
 </ul>
 
 ### :gear: Engines
