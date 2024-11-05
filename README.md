@@ -137,7 +137,7 @@
   <li>[ :heavy_check_mark: ] Emmet</li>
   <li>[ :heavy_check_mark: ] Webpack</li>
   <li>[ :heavy_check_mark: ] Postman</li>
-  <li>[ :grey_question: ] Docker</li>
+  <li>[ :heavy_check_mark: ] Docker</li>
 </ul>
 
 ### :laughing:
