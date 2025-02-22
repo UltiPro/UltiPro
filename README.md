@@ -25,7 +25,6 @@
 <a href="https://www.djangoproject.com/"><img src="./icons/langs&techs/django.svg" width="60"/></a>
 <a href="https://flask.palletsprojects.com/en/"><img src="./icons/langs&techs/flask.svg" width="60"/></a>
 <br/>
-<a href="https://isocpp.org/"><img src="./icons/langs&techs/cpp.svg" width="60"/></a>
 <a href="https://www.rust-lang.org/"><img src="./icons/langs&techs/rust.svg" width="60"/></a>
 <br/>
 <a href="https://azure.microsoft.com/en-us/"><img src="./icons/clouds/microsoftazure.svg" width="60"/></a>
@@ -72,7 +71,6 @@
       <li>[ :heavy_check_mark: ] TypeScript</li>
       <li>[ :grey_question: ] Vue</li>
     </ul>
-  <li>[ :x: ] C++</li>
   <li>[ :heavy_check_mark: ] .NET C#</li>
      <ul>
         <li>[ :heavy_check_mark: ] Language Integrated Query (LINQ)</li>
@@ -83,15 +81,18 @@
             <li>[ :heavy_check_mark: ] Web API</li>
             <li>[ :heavy_check_mark: ] MVC</li>
             <li>[ :heavy_check_mark: ] Razor Pages</li>
-            <li>[ :x: ] Blazor</li>
           </ul>
      </ul>
   <li>[ :heavy_check_mark: ] Python</li>
      <ul>
         <li>[ :heavy_check_mark: ] Django</li>
         <li>[ :heavy_check_mark: ] Flask</li>
+        <li>Artificial Intelligence & Machine Learning</li>
+          <ul>
+            <li>[ :grey_question: ] TensorFlow 2.0</li>
+          </ul>
      </ul>
-  <li>[ :x: ] Rust</li>
+  <li>[ :grey_question: ] Rust</li>
   <li>[ :heavy_check_mark: ] SQL</li>
   <li>[ :heavy_check_mark: ] Regex</li>
 </ul>
@@ -122,13 +123,6 @@
     <ul>
       <li>[ :grey_question: ] Vertex AI</li>
     </ul>
-</ul>
-
-### :gear: Engines
-
-<ul>
-  <li>[ :grey_question: ] Unity</li>
-  <li>[ :x: ] Unreal Engine 5</li>
 </ul>
 
 ### :link: Others
