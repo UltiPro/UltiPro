@@ -70,6 +70,9 @@
       <li>[ :heavy_check_mark: ] Axios</li>
       <li>[ :heavy_check_mark: ] TypeScript</li>
       <li>[ :grey_question: ] Vue</li>
+        <ul>
+          <li>[ :grey_question: ] Vuex</li>
+        </ul>
     </ul>
   <li>[ :heavy_check_mark: ] .NET C#</li>
      <ul>
