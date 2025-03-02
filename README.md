@@ -69,9 +69,9 @@
       <li>[ :heavy_check_mark: ] jQuery</li>
       <li>[ :heavy_check_mark: ] Axios</li>
       <li>[ :heavy_check_mark: ] TypeScript</li>
-      <li>[ :grey_question: ] Vue</li>
+      <li>[ :heavy_check_mark: ] Vue</li>
         <ul>
-          <li>[ :grey_question: ] Vuex</li>
+          <li>[ :heavy_check_mark: ] Vuex</li>
         </ul>
     </ul>
   <li>[ :heavy_check_mark: ] .NET C#</li>
