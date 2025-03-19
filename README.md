@@ -112,7 +112,6 @@
   <li>[ :heavy_check_mark: ] Microsoft SQL Server + SSMS</li>
   <li>[ :grey_question: ] Oracle SQL + Oracle SQL Developer</li>
   <li>[ :heavy_check_mark: ] SQLite</li>
-  <li>[ :x: ] MySQL</li>
   <li>[ :grey_question: ] PostgreSQL</li>
   <li>[ :grey_question: ] MariaDB</li>
   <li>[ :grey_question: ] MongoDB</li>
