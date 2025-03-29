@@ -137,6 +137,8 @@
 
 <ul>
   <li>[ :heavy_check_mark: ] Git</li>
+  <li>[ :heavy_check_mark: ] Data Structures and Algorithms</li>
+  <li>[ :heavy_check_mark: ] Design Patterns</li>
 </ul>
 
 <hr/>
