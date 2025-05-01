@@ -92,6 +92,7 @@
         <li>[ :heavy_check_mark: ] Flask</li>
         <li>Artificial Intelligence & Machine Learning</li>
           <ul>
+            <li>[ :grey_question: ] Scikit Learn</li>
             <li>[ :grey_question: ] TensorFlow 2.0</li>
           </ul>
      </ul>
