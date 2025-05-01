@@ -137,7 +137,7 @@
 ### :laughing:
 
 <ul>
-  <li>[ :heavy_check_mark: ] Data Structures and Algorithms</li>
+  <li>[ :heavy_check_mark: ] Algorithms and Data Structures</li>
   <li>[ :heavy_check_mark: ] Design Patterns</li>
   <li>[ :heavy_check_mark: ] Git</li>
 </ul>
