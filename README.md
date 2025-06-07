@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm a student :mortar_board: at the Bialystok Technical University :classical_building: and an employee :briefcase: of DS360</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&theme=dark&text_color=ffffff&border_radius=0&hide=HTML,Java,C,PHP,Objective-C,SHELL,Makefile,HACK,GLSL,Lua,Dockerfile" alt="Patryk 'UltiPro' Wójtowicz Most Used Languages" align="right" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&theme=dark&text_color=ffffff&border_radius=0&hide=HTML,Java,C,PHP,Objective-C,SHELL,Makefile,HACK,GLSL,Lua,Dockerfile,ipynb" alt="Patryk 'UltiPro' Wójtowicz Most Used Languages" align="right" width="350"/>
 
 ### :point_right: Full-Stack Universal Developer
 
