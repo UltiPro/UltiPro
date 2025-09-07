@@ -50,9 +50,9 @@
 
 <hr/>
 
-[ ✔️ ] Course completed. Project written.  
-[ ❔ ] Course in progress. Project in progress.  
-[ ❌ ] Course in plans. Project in plans.  
+[ ✔️ ] Experienced  
+[ ❔ ] Familiar  
+[ ❌ ] Planned 
 
 ### :hammer_and_wrench: Languages | Technologies
 
@@ -61,7 +61,8 @@
   - ✔️ SCSS & SASS  
   - ✔️ Bootstrap  
 - ✔️ JavaScript  
-  - ✔️ AJAX & Fetch  
+  - ✔️ AJAX (XMLHttpRequest)
+  - ✔️ Fetch API
   - ✔️ jQuery  
   - ✔️ Axios  
   - ✔️ TypeScript  
@@ -88,11 +89,7 @@
 
 <hr/>
 
-[ ✔️ ] Experienced  
-[ ❔ ] Familiar  
-[ ❌ ] Planned 
-
-### :card_file_box: Databases
+### :floppy_disk: Databases
 
 - ✔️ Microsoft SQL Server + SSMS  
 - ❔ Oracle SQL + Oracle SQL Developer  
@@ -109,23 +106,38 @@
 ### :link: Tools & Others
 
 - **Development**
-  - ✔️ JSON, XML, YAML
   - ✔️ Emmet
   - ✔️ Webpack
+  - ✔️ JSON, XML, YAML
 
 - **API & Testing**
   - ✔️ Swagger
   - ✔️ Postman
 
 - **DevOps & Virtualization**
-  - ✔️ Virtual Machines
+  - ✔️ Virtual Machines (VM)
   - ✔️ Docker
 
 ### :mortar_board: Fundamentals
 
 - ✔️ Git
+- ✔️ Object-Oriented Programming (OOP)
 - ✔️ Algorithms and Data Structures
 - ✔️ Design Patterns
+- ❔ Clean Code
+
+<hr/>
+
+### 🖥️ Operating Systems
+
+- ✔️ 🪟 Windows
+- ❔ 🐧 Linux (Ubuntu)
+- ❔ 🍎 macOS
+
+### 📝 IDEs
+
+- ✔️ Visual Studio
+- ✔️ Visual Studio Code
 
 <hr/>
 
