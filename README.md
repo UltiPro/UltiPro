@@ -50,98 +50,82 @@
 
 <hr/>
 
-[ :heavy_check_mark: ] Course completed. Project written.<br/>
-[ :grey_question: ] Course in progress. Project in progress.<br/>
-[ :x: ] Course in plans. Project in plans.<br/>
+[ ✔️ ] Course completed. Project written.  
+[ ❔ ] Course in progress. Project in progress.  
+[ ❌ ] Course in plans. Project in plans.  
 
 ### :hammer_and_wrench: Languages | Technologies
 
-<ul>
-  <li>[ :heavy_check_mark: ] HTML</li>
-  <li>[ :heavy_check_mark: ] CSS</li>
-    <ul>
-      <li>[ :heavy_check_mark: ] SCSS & SASS</li>
-      <li>[ :heavy_check_mark: ] Bootstrap</li>
-    </ul>
-  <li>[ :heavy_check_mark: ] JavaScript</li>
-    <ul>
-      <li>[ :heavy_check_mark: ] AJAX & Fetch</li>
-      <li>[ :heavy_check_mark: ] jQuery</li>
-      <li>[ :heavy_check_mark: ] Axios</li>
-      <li>[ :heavy_check_mark: ] TypeScript</li>
-      <li>[ :heavy_check_mark: ] Vue</li>
-        <ul>
-          <li>[ :heavy_check_mark: ] Vuex</li>
-        </ul>
-    </ul>
-  <li>[ :heavy_check_mark: ] .NET C#</li>
-     <ul>
-        <li>[ :heavy_check_mark: ] Language Integrated Query (LINQ)</li>
-        <li>[ :heavy_check_mark: ] Entity Framework Core (EF Core)</li>
-        <li>[ :heavy_check_mark: ] WPF</li>
-        <li>ASP .NET Core</li>
-          <ul>
-            <li>[ :heavy_check_mark: ] Web API</li>
-            <li>[ :heavy_check_mark: ] MVC</li>
-            <li>[ :heavy_check_mark: ] Razor Pages</li>
-          </ul>
-     </ul>
-  <li>[ :heavy_check_mark: ] Python</li>
-     <ul>
-        <li>[ :heavy_check_mark: ] Django</li>
-        <li>[ :heavy_check_mark: ] Flask</li>
-        <li>Artificial Intelligence & Machine Learning</li>
-          <ul>
-            <li>[ :heavy_check_mark: ] Scikit Learn</li>
-            <li>[ :heavy_check_mark: ] TensorFlow 2.0</li>
-          </ul>
-     </ul>
-  <li>[ :grey_question: ] Rust</li>
-  <li>[ :heavy_check_mark: ] SQL</li>
-  <li>[ :heavy_check_mark: ] Regex</li>
-</ul>
+- ✔️ HTML  
+- ✔️ CSS  
+  - ✔️ SCSS & SASS  
+  - ✔️ Bootstrap  
+- ✔️ JavaScript  
+  - ✔️ AJAX & Fetch  
+  - ✔️ jQuery  
+  - ✔️ Axios  
+  - ✔️ TypeScript  
+  - ✔️ Vue  
+    - ✔️ Vuex  
+- ✔️ .NET C#  
+  - ✔️ Language Integrated Query (LINQ)  
+  - ✔️ Entity Framework Core (EF Core)  
+  - ✔️ WPF  
+  - ✔️ ASP .NET Core  
+    - ✔️ Web API  
+    - ✔️ MVC  
+    - ✔️ Razor Pages  
+- ✔️ Python  
+  - ✔️ Django  
+  - ✔️ Flask  
+  - ✔️ SQLAlchemy  
+  - ✔️ Artificial Intelligence & Machine Learning  
+    - ✔️ Scikit Learn  
+    - ✔️ TensorFlow 2.0  
+- ❔ Rust  
+- ✔️ SQL  
+- ✔️ Regex  
 
 <hr/>
 
-[ :heavy_check_mark: ] Mastered<br/>
-[ :grey_question: ] Used<br/>
-[ :x: ] Planned<br/>
+[ ✔️ ] Experienced  
+[ ❔ ] Familiar  
+[ ❌ ] Planned 
 
 ### :card_file_box: Databases
 
-<ul>
-  <li>[ :heavy_check_mark: ] Microsoft SQL Server + SSMS</li>
-  <li>[ :grey_question: ] Oracle SQL + Oracle SQL Developer</li>
-  <li>[ :heavy_check_mark: ] SQLite</li>
-  <li>[ :grey_question: ] PostgreSQL</li>
-  <li>[ :grey_question: ] MariaDB</li>
-  <li>[ :grey_question: ] MongoDB</li>
-</ul>
+- ✔️ Microsoft SQL Server + SSMS  
+- ❔ Oracle SQL + Oracle SQL Developer  
+- ✔️ SQLite  
+- ❔ PostgreSQL  
+- ❔ MariaDB  
+- ❔ MongoDB  
 
 ### :cloud: Cloud Technologies
 
-<ul>
-  <li>[ :grey_question: ] Microsoft Azure</li>
-  <li>[ :grey_question: ] Google Cloud Platform</li>
-</ul>
+- ❔ Microsoft Azure  
+- ❔ Google Cloud Platform  
 
-### :link: Others
+### :link: Tools & Others
 
-<ul>
-  <li>[ :heavy_check_mark: ] Emmet</li>
-  <li>[ :heavy_check_mark: ] Webpack</li>
-  <li>[ :heavy_check_mark: ] Swagger</li>
-  <li>[ :heavy_check_mark: ] Postman</li>
-  <li>[ :heavy_check_mark: ] Docker</li>
-</ul>
+- **Development**
+  - ✔️ JSON, XML, YAML
+  - ✔️ Emmet
+  - ✔️ Webpack
 
-### :laughing:
+- **API & Testing**
+  - ✔️ Swagger
+  - ✔️ Postman
 
-<ul>
-  <li>[ :heavy_check_mark: ] Algorithms and Data Structures</li>
-  <li>[ :heavy_check_mark: ] Design Patterns</li>
-  <li>[ :heavy_check_mark: ] Git</li>
-</ul>
+- **DevOps & Virtualization**
+  - ✔️ Virtual Machines
+  - ✔️ Docker
+
+### :mortar_board: Fundamentals
+
+- ✔️ Git
+- ✔️ Algorithms and Data Structures
+- ✔️ Design Patterns
 
 <hr/>
 
