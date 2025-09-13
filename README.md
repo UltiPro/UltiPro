@@ -25,6 +25,7 @@
 <a href="https://www.djangoproject.com/"><img src="./icons/langs&techs/django.svg" width="60"/></a>
 <a href="https://flask.palletsprojects.com/en/"><img src="./icons/langs&techs/flask.svg" width="60"/></a>
 <br/>
+<a href="https://isocpp.org/"><img src="./icons/langs&techs/cpp.svg" width="60"/></a>
 <a href="https://www.rust-lang.org/"><img src="./icons/langs&techs/rust.svg" width="60"/></a>
 <br/>
 <a href="https://azure.microsoft.com/en-us/"><img src="./icons/clouds/microsoftazure.svg" width="60"/></a>
@@ -76,7 +77,7 @@
     - ✔️ Web API  
     - ✔️ MVC  
     - ✔️ Razor Pages
-    - ❌ Blazor
+    - ❌ Blazor  
 - ✔️ Python  
   - ✔️ Django  
   - ✔️ Flask  
@@ -84,21 +85,23 @@
   - ✔️ Artificial Intelligence & Machine Learning  
     - ✔️ Scikit Learn  
     - ✔️ TensorFlow 2.0  
+- ❔ C/C++    
 - ❔ Rust  
 - ✔️ SQL  
-- ✔️ Regex
-- ✔️ JSON, XML, YAML
+- ✔️ Regex  
+- ✔️ JSON, XML, YAML  
 
 <hr/>
 
 ### 💾 Databases
 
-- ✔️ Microsoft SQL Server + SSMS  
-- ❔ Oracle SQL + Oracle SQL Developer  
-- ✔️ SQLite  
-- ✔️ PostgreSQL  
-- ❔ MariaDB  
-- ❔ MongoDB  
+- ✔️ Microsoft SQL Server
+- ✔️ PostgreSQL
+  - ✔️ PostGIS
+- ❔ Oracle SQL
+- ❔ MariaDB
+- ✔️ SQLite
+- ❔ MongoDB
 
 ### ☁️ Cloud Technologies
 
@@ -148,6 +151,11 @@
 - **API & Testing**
   - ✔️ Swagger
   - ✔️ Postman
+ 
+- **Database Tools**
+  - ✔️ SSMS
+  - ❔ Oracle SQL Developer
+  - ❔ DBeaver
 
 - **DevOps & Virtualization**
   - ✔️ Virtual Machines (VM)
@@ -159,11 +167,11 @@
 - **DS360 – Full-Stack & ML Developer**  
   *July 2024 – Present*  
 
-  🎨 Frontend Development – Building web applications using Vue.js.  
+  🎨 Frontend Development – Building web application using Vue.js.  
 
   🎮 Simulation Development – Working with Unity (3D).  
 
-  🛠️ ML Platform Implementation & Maintenance – Developing and maintaining MLOps pipelines:  
+  🛠️ Machine Learning Operations – Deploying and maintaining models, supporting MLOps platform development:  
   - ✔️ PostgreSQL & PostGIS  
   - ✔️ OpenStreetMap (OSM) data processing  
   - ✔️ Machine Learning (Scikit-Learn, H2O)  
