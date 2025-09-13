@@ -75,7 +75,8 @@
   - ✔️ ASP .NET Core  
     - ✔️ Web API  
     - ✔️ MVC  
-    - ✔️ Razor Pages  
+    - ✔️ Razor Pages
+    - ❌ Blazor
 - ✔️ Python  
   - ✔️ Django  
   - ✔️ Flask  
@@ -85,30 +86,64 @@
     - ✔️ TensorFlow 2.0  
 - ❔ Rust  
 - ✔️ SQL  
-- ✔️ Regex  
+- ✔️ Regex
+- ✔️ JSON, XML, YAML
 
 <hr/>
 
-### :floppy_disk: Databases
+### 💾 Databases
 
 - ✔️ Microsoft SQL Server + SSMS  
 - ❔ Oracle SQL + Oracle SQL Developer  
 - ✔️ SQLite  
-- ❔ PostgreSQL  
+- ✔️ PostgreSQL  
 - ❔ MariaDB  
 - ❔ MongoDB  
 
-### :cloud: Cloud Technologies
+### ☁️ Cloud Technologies
 
 - ❔ Microsoft Azure  
-- ❔ Google Cloud Platform  
+- ❔ Google Cloud Platform
 
-### :link: Tools & Others
+### 🎮 Engines
+- ❔ Unity 2D/3D
+- ❌ Unreal Engine 5
+
+<hr/>
+
+### 🎓 Fundamentals
+
+- ✔️ Git
+- ✔️ Object-Oriented Programming (OOP)
+- ✔️ Algorithms and Data Structures
+- ✔️ Design Patterns
+- ❔ Clean Code
+
+### 📐 Concepts & Techniques  
+- ✔️ RESTful APIs  
+- ✔️ Session Management  
+- ✔️ Stored Procedures  
+- ✔️ Scaffolding  
+- ❔ RSA Cryptography
+
+<hr/>
+
+### 🖥️ Operating Systems
+
+- ✔️ 🪟 Windows
+- ❔ 🐧 Linux (Ubuntu, Debian, Raspberry Pi OS)
+- ❔ 🍎 macOS
+
+### 📝 IDEs
+
+- ✔️ Visual Studio
+- ✔️ Visual Studio Code
+
+### ⚙️ Tools & Others
 
 - **Development**
   - ✔️ Emmet
   - ✔️ Webpack
-  - ✔️ JSON, XML, YAML
 
 - **API & Testing**
   - ✔️ Swagger
@@ -118,26 +153,25 @@
   - ✔️ Virtual Machines (VM)
   - ✔️ Docker
 
-### :mortar_board: Fundamentals
-
-- ✔️ Git
-- ✔️ Object-Oriented Programming (OOP)
-- ✔️ Algorithms and Data Structures
-- ✔️ Design Patterns
-- ❔ Clean Code
-
 <hr/>
 
-### 🖥️ Operating Systems
+### 💼 Professional Experience
+- **DS360 – Full-Stack & ML Developer**  
+  *July 2024 – Present*  
 
-- ✔️ 🪟 Windows
-- ❔ 🐧 Linux (Ubuntu)
-- ❔ 🍎 macOS
+  🎨 Frontend Development – Building web applications using Vue.js.  
 
-### 📝 IDEs
+  🎮 Simulation Development – Working with Unity (3D).  
 
-- ✔️ Visual Studio
-- ✔️ Visual Studio Code
+  🛠️ ML Platform Implementation & Maintenance – Developing and maintaining MLOps pipelines:  
+  - ✔️ PostgreSQL & PostGIS  
+  - ✔️ OpenStreetMap (OSM) data processing  
+  - ✔️ Machine Learning (Scikit-Learn, H2O)  
+  - ✔️ Flask  
+  - ✔️ Docker  
+  - ✔️ Google Cloud Platform: BigQuery, GCS, Composer, UDFs  
+
+  📊 Project Management – Leading project, coordinating team, and managing schedules.
 
 <hr/>
 
