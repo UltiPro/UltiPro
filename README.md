@@ -82,8 +82,10 @@
   - ✔️ Django  
   - ✔️ Flask  
   - ✔️ SQLAlchemy  
-  - ✔️ Artificial Intelligence & Machine Learning  
-    - ✔️ Scikit Learn  
+  - ✔️ **Data Science & Machine Learning**  
+    - ✔️ Jupyter Notebook  
+    - ❔ Google Colab  
+    - ✔️ Scikit-Learn  
     - ✔️ TensorFlow 2.0  
 - ❔ C/C++    
 - ❔ Rust  
@@ -160,6 +162,12 @@
 - **DevOps & Virtualization**
   - ✔️ Virtual Machines (VM)
   - ✔️ Docker
+ 
+- **GitHub**
+  - ✔️ GitHub Desktop  
+  - ✔️ GitHub Pages  
+  - ✔️ GitHub Codespaces  
+  - ❔ GitHub Actions  
 
 <hr/>
 
