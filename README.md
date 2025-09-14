@@ -125,11 +125,11 @@
 - ❔ Clean Code
 
 ### 📐 Concepts & Techniques  
-- ✔️ RESTful APIs  
+- ✔️ RESTful APIs (incl. HATEOAS)  
 - ✔️ Session Management  
 - ✔️ Stored Procedures  
 - ✔️ Scaffolding  
-- ❔ RSA Cryptography
+- ❔ RSA Cryptography  
 
 <hr/>
 
