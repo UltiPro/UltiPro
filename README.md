@@ -97,18 +97,18 @@
 
 ### 💾 Databases
 
-- ✔️ Microsoft SQL Server
-- ✔️ PostgreSQL
-  - ✔️ PostGIS
-- ❔ Oracle SQL
-- ❔ MariaDB
-- ✔️ SQLite
-- ❔ MongoDB
+- ✔️ PostgreSQL  
+  - ✔️ PostGIS  
+- ✔️ Microsoft SQL Server  
+- ❔ Oracle SQL  
+- ❔ MariaDB  
+- ✔️ SQLite  
+- ❔ MongoDB  
 
 ### ☁️ Cloud Technologies
 
 - ❔ Microsoft Azure  
-- ❔ Google Cloud Platform
+- ❔ Google Cloud Platform  
 
 ### 🎮 Engines
 - ❔ Unity 2D/3D
