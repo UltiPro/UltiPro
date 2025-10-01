@@ -87,7 +87,8 @@
     - ❔ Google Colab  
     - ✔️ Scikit-Learn  
     - ✔️ TensorFlow 2.0  
-- ❔ C/C++    
+- ❔ C/C++  
+- ❔ PHP  
 - ❔ Rust  
 - ✔️ SQL  
 - ✔️ Regex  
@@ -101,7 +102,7 @@
   - ✔️ PostGIS  
 - ✔️ Microsoft SQL Server  
 - ❔ Oracle SQL  
-- ❔ MariaDB  
+- ❔ MySQL | MariaDB  
 - ✔️ SQLite  
 - ❔ MongoDB  
 
