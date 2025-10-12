@@ -112,20 +112,22 @@
 - ❔ Google Cloud Platform  
 
 ### 🎮 Engines
-- ❔ Unity 2D/3D
-- ❌ Unreal Engine 5
+
+- ❔ Unity 2D/3D  
+- ❌ Unreal Engine 5  
 
 <hr/>
 
 ### 🎓 Fundamentals
 
-- ✔️ Git
-- ✔️ Object-Oriented Programming (OOP)
-- ✔️ Algorithms and Data Structures
-- ✔️ Design Patterns
-- ❔ Clean Code
+- ✔️ Git  
+- ✔️ Object-Oriented Programming (OOP)  
+- ✔️ Algorithms and Data Structures  
+- ✔️ Design Patterns  
+- ❔ Clean Code  
 
-### 📐 Concepts & Techniques  
+### 📐 Concepts & Techniques 
+
 - ✔️ RESTful APIs (incl. HATEOAS)  
 - ✔️ Session Management  
 - ✔️ Stored Procedures  
@@ -135,22 +137,27 @@
 
 <hr/>
 
-### 🖥️ Operating Systems
+### 🖥️ Operating Systems  
 
-- ✔️ 🪟 Windows
-- ❔ 🐧 Linux (Ubuntu, Debian, Raspberry Pi OS)
-- ❔ 🍎 macOS
+- ✔️ 🪟 Windows  
+- ❔ 🐧 Linux (Ubuntu, Debian, Raspberry Pi OS)  
+- ❔ 🍎 macOS  
 
-### 📝 IDEs
+### 🛡️ Networking & Security  
 
-- ✔️ Visual Studio
-- ✔️ Visual Studio Code
+- ✔️ SSH (Secure Shell)  
+- ❔ RSA Cryptography  
 
-### ⚙️ Tools & Others
+### 📝 IDEs  
 
-- **Development**
-  - ✔️ Emmet
-  - ✔️ Webpack
+- ✔️ Visual Studio  
+- ✔️ Visual Studio Code  
+
+### ⚙️ Tools & Others  
+
+- **Development**  
+  - ✔️ Emmet  
+  - ✔️ Webpack  
 
 - **API & Testing**
   - ✔️ Swagger
