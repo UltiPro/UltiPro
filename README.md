@@ -131,6 +131,7 @@
 - ✔️ Stored Procedures  
 - ✔️ Scaffolding  
 - ❔ RSA Cryptography  
+- ✔️ Geospatial Data Processing (Python, PostGIS, BigQuery, OSM)  
 
 <hr/>
 
