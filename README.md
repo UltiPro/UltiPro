@@ -169,6 +169,7 @@
   - ✔️ GitHub Pages  
   - ✔️ GitHub Codespaces  
   - ❔ GitHub Actions  
+  - ✔️ GitHub Copilot  
 
 <hr/>
 
