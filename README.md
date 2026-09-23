@@ -53,6 +53,11 @@ stores around it, twin-store lookup and seasonality.
 - **MLOps** — model artefacts versioned in GCS, every prediction historised to BigQuery for
   monitoring and back-testing, structured logging in Cloud Logging, scheduled data refresh in
   Cloud Composer (Airflow).
+- **Client application** — a Vue 3 + MapLibre GL web app: the planned change is drawn on the map and
+  comes back as catchment and competition areas, cannibalised stores and the balance of the whole
+  change, next to the data a prediction was built from, such as POI, competitor stores and the road
+  network. Models run one by one or as a full simulation; its Flask backend calls the API as a
+  service account, so the browser never holds a token.
 
 📊 **Project Management** — led the migration of a client's suite of web applications: independent
 tools serving different departments under one solution, running on an ageing PHP version and on VMs
@@ -72,7 +77,7 @@ class of events to train on.
 consulting firm and adapted it to new requirements; deployed to Cloud Run through automated CI/CD
 from GitHub.
 
-`Python` `Flask` `LightGBM` `scikit-learn` `pandas` `PostgreSQL` `PostGIS` `BigQuery` `Docker` `Cloud Run` `Cloud Build` `Cloud Composer` `Vue.js` `Unity` `CI/CD`
+`Python` `Flask` `LightGBM` `scikit-learn` `pandas` `PostgreSQL` `PostGIS` `BigQuery` `Docker` `Cloud Run` `Cloud Build` `Cloud Composer` `Vue.js` `MapLibre GL` `Unity` `CI/CD`
 
 <hr/>
 
