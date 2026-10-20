@@ -83,8 +83,10 @@ from GitHub.
 
 ### 🎓 Education
 
-- **MSc Eng. (mgr inż.)** — Computer Science (spec. Intelligent Internet Technologies), Bialystok University of Technology · 2026
-- **BEng (inż.)** — Computer Science, Bialystok University of Technology · 2024
+- **MSc Eng. (mgr inż.)** — Computer Science (spec. Intelligent Internet Technologies), Bialystok University of Technology · 2026  
+  📄 Thesis: [Performance testing of selected computational engines for processing spatial data in 2D metric reference systems](https://github.com/UltiPro/Master-Thesis)
+- **BEng (inż.)** — Computer Science, Bialystok University of Technology · 2024  
+  🎮 Thesis: [FenXsOnline — browser-based MMORPG](https://github.com/UltiPro/FenXsOnline)
 - **IT Technician (technik informatyk)** — technical secondary school · 2020
 
 <hr/>
