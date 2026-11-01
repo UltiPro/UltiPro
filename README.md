@@ -32,34 +32,34 @@
 
 ### 💼 Professional Experience
 
-**DS360 — Full-Stack & ML Engineer**  
-*July 2024 – Present*
+**DS360 - Full-Stack & ML Engineer**  
+*July 2024 - Present*
 
-🛠️ **Expansion Models** — a production ML platform deciding where a retail chain opens its next
+🛠️ **Expansion Models** - a production ML platform deciding where a retail chain opens its next
 store. Four models behind one API: predicted turnover of a new location, cannibalisation of the
 stores around it, twin-store lookup and seasonality.
 
-- **ML service** — Flask + flask-smorest REST API with an OpenAPI/Swagger contract and marshmallow
+- **ML service** - Flask + flask-smorest REST API with an OpenAPI/Swagger contract and marshmallow
   validation, serving LightGBM and scikit-learn models (regression, classification, similarity
   search) together with prediction intervals. Containerised and deployed to Cloud Run across
   dev/stg/prod behind Identity-Aware Proxy, with a one-command deployment script
   (Cloud Build → Artifact Registry → Cloud Run).
-- **Network simulation** — one request scoring several openings, relocations and closures at once:
+- **Network simulation** - one request scoring several openings, relocations and closures at once:
   cannibalisation composed across overlapping catchment areas, turnover of the affected network
   before and after the change, and twin-store suggestions for every new location.
-- **Geospatial feature engineering** — a bronze/silver/gold pipeline on PostgreSQL + PostGIS and
+- **Geospatial feature engineering** - a bronze/silver/gold pipeline on PostgreSQL + PostGIS and
   BigQuery: OpenStreetMap data, walk- and drive-time isochrones from an external service, POI
-  density and distance decay — several hundred features per location.
-- **MLOps** — model artefacts versioned in GCS, every prediction historised to BigQuery for
+  density and distance decay - several hundred features per location.
+- **MLOps** - model artefacts versioned in GCS, every prediction historised to BigQuery for
   monitoring and back-testing, structured logging in Cloud Logging, scheduled data refresh in
   Cloud Composer (Airflow).
-- **Client application** — a Vue 3 + MapLibre GL web app: the planned change is drawn on the map and
+- **Client application** - a Vue 3 + MapLibre GL web app: the planned change is drawn on the map and
   comes back as catchment and competition areas, cannibalised stores and the balance of the whole
   change, next to the data a prediction was built from, such as POI, competitor stores and the road
   network. Models run one by one or as a full simulation; its Flask backend calls the API as a
   service account, so the browser never holds a token.
 
-📊 **Project Management** — led the migration of a client's suite of web applications: independent
+📊 **Project Management** - led the migration of a client's suite of web applications: independent
 tools serving different departments under one solution, running on an ageing PHP version and on VMs
 that kept filling their own disks until they died. They now run as containers on Hetzner against a
 shared database. The work also covered the environment itself: configuration, and fixes to code and
@@ -69,11 +69,11 @@ the previous revision the moment anything misbehaves. Deployment windows were at
 coordination the harder half of the job: three people at DS360 on my side, six on the client's, run
 jointly with their own project manager.
 
-🎮 **Simulation Development** — extended an airport simulator used for air-traffic-control training
+🎮 **Simulation Development** - extended an airport simulator used for air-traffic-control training
 (Unity, 3D) with ground vehicle traffic driving across the airport model, giving instructors a new
 class of events to train on.
 
-🎨 **Frontend Development** — reworked the structure and code of an existing Vue.js website for a
+🎨 **Frontend Development** - reworked the structure and code of an existing Vue.js website for a
 consulting firm and adapted it to new requirements; deployed to Cloud Run through automated CI/CD
 from GitHub.
 
@@ -83,11 +83,22 @@ from GitHub.
 
 ### 🎓 Education
 
-- **MSc Eng. (mgr inż.)** — Computer Science (spec. Intelligent Internet Technologies), Bialystok University of Technology · 2026  
+- **MSc Eng. (mgr inż.)** - Computer Science (spec. Intelligent Internet Technologies), Bialystok University of Technology · 2026  
   📄 Thesis: [Performance testing of selected computational engines for processing spatial data in 2D metric reference systems](https://github.com/UltiPro/Master-Thesis)
-- **BEng (inż.)** — Computer Science, Bialystok University of Technology · 2024  
-  🎮 Thesis: [FenXsOnline — browser-based MMORPG](https://github.com/UltiPro/FenXsOnline)
-- **IT Technician (technik informatyk)** — technical secondary school · 2020
+- **BEng (inż.)** - Computer Science, Bialystok University of Technology · 2024  
+  🎮 Thesis: [FenXsOnline, a browser-based MMORPG](https://github.com/UltiPro/FenXsOnline)
+- **IT Technician (technik informatyk)** - technical secondary school · 2020
+
+<hr/>
+
+### 📌 Featured Projects
+
+- **[Dobrze Tniemy](https://dobrzetniemy.pl/)** - commercial website and business card for a tree-felling company ([source](https://github.com/UltiPro/dobrzetniemy.pl)).  
+  <sub>React 19 · TypeScript · Tailwind CSS 4 · Vite · GitHub Pages</sub>
+- **[Folderly](https://github.com/UltiPro/Folderly)** - self-hosted file storage with folder sharing.  
+  <sub>Python · Flask · Vue 3 · TypeScript · Docker · GitHub Actions</sub>
+- **[z tej strony Paula](https://ultipro.github.io/ztejstronypaula.pl/)** - bilingual (PL/EN) portfolio website for a photographer ([source](https://github.com/UltiPro/ztejstronypaula.pl)).  
+  <sub>React 19 · TypeScript · Tailwind CSS 4 · Vite · GitHub Pages</sub>
 
 <hr/>
 
@@ -95,8 +106,8 @@ from GitHub.
 
 - HTML, CSS, Bootstrap, SCSS/SASS, Tailwind
 - JavaScript, jQuery, Axios, TypeScript, Angular, Vue, React
-- C# (.NET) — LINQ, EF Core, WPF, ASP.NET Core (Web API, MVC, Razor Pages)
-- Python — Django, Flask, SQLAlchemy, psycopg
+- C# (.NET) - LINQ, EF Core, WPF, ASP.NET Core (Web API, MVC, Razor Pages)
+- Python - Django, Flask, SQLAlchemy, psycopg
   - **Data Science & Machine Learning**: Scikit-Learn, LightGBM, TensorFlow, Pandas, Jupyter Notebook
 - C/C++
 - Rust
@@ -123,7 +134,7 @@ from GitHub.
 
 ### ☁️ Cloud & Infrastructure
 
-- Google Cloud Platform — Cloud Run, Cloud SQL, Cloud Build, Artifact Registry, GCS, BigQuery, Cloud Composer
+- Google Cloud Platform - Cloud Run, Cloud SQL, Cloud Build, Artifact Registry, GCS, BigQuery, Cloud Composer
 - Docker, Virtual Machines (VM)
 - CI/CD
 
@@ -144,20 +155,11 @@ from GitHub.
 
 - Webpack, Vite
 - Swagger, Postman
+- Testing: pytest, Vitest, xUnit (unit, integration, smoke tests)
+- Code quality: Ruff, ESLint, Prettier
 - SSMS, Oracle SQL Developer, DBeaver
 - GitHub Desktop, Pages, Codespaces, Actions, Copilot
 - Azure DevOps (TFS)
-
-<hr/>
-
-<a href="https://github.com/UltiPro/Certifications"><img src="https://github-readme-stats-n50491bd0-ulti-9504.vercel.app/api/pin/?username=ultipro&repo=certifications&theme=dark&text_color=ffffff&border_radius=0" alt="Patryk 'UltiPro' Wójtowicz Certifications" align="right" width="350" /></a>
-
-### 🌐 Hosted Projects & Certifications
-
-<a href="https://ultipro.github.io/TicTacToe/"><img src="./icons/projects/tictactoe.svg" width="60"/></a>
-<a href="https://ultipro.github.io/GitHub-Users/"><img src="./icons/projects/github-users.svg" width="60"/></a>
-<a href="https://ultipro.github.io/Memory-Color-Master/"><img src="./icons/projects/memory-color-master.svg" width="60"/></a>
-<a href="https://ultipro.github.io/JustDoIt/"><img src="./icons/projects/justdoit.svg" width="60"/></a>
 
 <hr/>
 
