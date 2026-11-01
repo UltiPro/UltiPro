@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Patryk "Ulti" Wójtowicz :wave:</h1>
+<h1 align="center">Hi, I'm Patryk Wójtowicz :wave:</h1>
 
-<img src="https://github-readme-stats-n50491bd0-ulti-9504.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&theme=dark&text_color=ffffff&border_radius=0&hide=HTML,Java,Objective-C,SHELL,Makefile,HACK,GLSL,Lua,Dockerfile" alt="Patryk 'Ulti' Wójtowicz Most Used Languages" align="right" width="350"/>
+<img src="https://github-readme-stats-n50491bd0-ulti-9504.vercel.app/api/top-langs/?username=UltiPro&langs_count=10&layout=pie&theme=dark&text_color=ffffff&border_radius=0&hide=HTML,Java,Objective-C,SHELL,Makefile,HACK,GLSL,Lua,Dockerfile" alt="Patryk Wójtowicz Most Used Languages" align="right" width="350"/>
 
 ### 👉 Full-Stack & ML Engineer
 
@@ -21,7 +21,7 @@
 
 <hr/>
 
-<img src="https://komarev.com/ghpvc/?username=UltiPro&color=blueviolet&style=for-the-badge" alt="Patryk 'UltiPro' Wójtowicz Profile Views" align="right" width="350" height="60"/>
+<img src="https://komarev.com/ghpvc/?username=UltiPro&color=blueviolet&style=for-the-badge" alt="Patryk Wójtowicz Profile Views" align="right" width="350" height="60"/>
 
 <a href="https://www.linkedin.com/in/patryk-ulti-wojtowicz/"><img src="./icons/linkedin.svg" width="60"/></a>
 <a href="https://www.facebook.com/patryk.ulti/"><img src="./icons/facebook.svg" width="60"/></a>
