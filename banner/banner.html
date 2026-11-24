@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>LinkedIn banner</title>
+<!--
+  LinkedIn background image, 1584 x 396 px. banner.png in this folder is its 2x render (3168 x 792),
+  shown at the top of the GitHub README, where it stays sharp on high-density screens:
+     chrome --headless --hide-scrollbars --force-device-scale-factor=2 --window-size=1584,396 --screenshot=banner.png banner.html
+  Text stays left of x = 1440, in case a phone layout crops the sides (the image uses object-fit: cover).
+  Keep the bottom-left corner empty: the profile photo covers it on desktop.
+  The file uploaded to LinkedIn is banner.png downscaled to 1584 x 396 (Lanczos) and sharpened slightly
+  (Pillow UnsharpMask radius 1.2, percent 70, threshold 2). LinkedIn recompresses the background to an
+  800 x 199 JPEG, and the text stays sharper there this way than with the 3168 px file or a direct 1x render.
+-->
+<style>
+  :root {
+    --bg-1: #0d1012;
+    --bg-2: #172024;
+    --teal: #2dd4bf;
+    --text: #f2f6f5;
+    --sub: #d9ebe7;
+    --muted: #b8d6d0;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1584px; height: 396px; overflow: hidden; background: var(--bg-1); }
+  .banner {
+    position: relative;
+    width: 1584px;
+    height: 396px;
+    background:
+      radial-gradient(ellipse 440px 330px at 540px 200px, rgba(45, 212, 191, 0.13) 0%, transparent 70%),
+      radial-gradient(ellipse 760px 420px at 78% 45%, rgba(45, 212, 191, 0.13) 0%, transparent 70%),
+      linear-gradient(110deg, var(--bg-1) 0%, var(--bg-2) 60%, var(--bg-1) 100%);
+  }
+  svg { position: absolute; inset: 0; }
+  .banner { filter: url(#edge); }
+  .text {
+    position: absolute;
+    left: 790px;
+    top: 28px;
+    font-family: Bahnschrift, "Segoe UI", sans-serif;
+    white-space: nowrap;
+  }
+  h1 {
+    color: var(--text);
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 1.08;
+    letter-spacing: 0.2px;
+  }
+  .rule { width: 52px; height: 4px; background: var(--teal); margin: 14px 0 12px; border-radius: 2px; }
+  .sub {
+    color: var(--sub);
+    font-size: 31px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+  }
+  .kw {
+    color: var(--muted);
+    font-size: 23px;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+  }
+  .kw span { color: var(--teal); padding: 0 9px; }
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <filter id="edge" color-interpolation-filters="sRGB">
+    <feComponentTransfer>
+      <feFuncR type="table" tableValues="0 0.0314 0.0606 0.1037 0.1395 0.1671 0.2703 0.3835 0.4861 0.6013 0.6924 0.7667 0.8902 0.9329 0.9568 0.9679 1"/>
+      <feFuncG type="table" tableValues="0 0.0403 0.0825 0.1173 0.1827 0.2537 0.3098 0.4335 0.5135 0.5942 0.6692 0.7748 0.8429 0.882 0.9526 0.9682 1"/>
+      <feFuncB type="table" tableValues="0 0.0696 0.1302 0.1719 0.2377 0.3013 0.3516 0.4472 0.5285 0.6039 0.7009 0.8056 0.8552 0.9007 0.961 0.9718 1"/>
+    </feComponentTransfer>
+  </filter>
+</svg>
+<div class="banner">
+  <svg id="art" width="1584" height="396" viewBox="0 0 1584 396"></svg>
+  <div class="text">
+    <h1>Machine Learning &amp;<br>Full-Stack Engineer</h1>
+    <div class="rule"></div>
+    <p class="kw">MLOps<span>·</span>Google Cloud<span>·</span>Geospatial ML<span>·</span>Python &amp; .NET</p>
+  </div>
+</div>
+<script>
+  // Simplified outline of Poland (lon, lat).
+  const POLAND = [[15.017,51.107],[14.607,51.745],[14.685,52.09],[14.438,52.625],[14.075,52.981],[14.353,53.248],[14.12,53.757],[14.803,54.051],[16.363,54.513],[17.623,54.852],[18.621,54.683],[18.696,54.439],[19.661,54.426],[20.892,54.313],[22.731,54.328],[23.244,54.221],[23.484,53.912],[23.528,53.47],[23.805,53.09],[23.799,52.691],[23.199,52.487],[23.508,52.024],[23.527,51.578],[24.03,50.705],[23.923,50.425],[23.427,50.309],[22.518,49.477],[22.776,49.027],[22.558,49.086],[21.608,49.47],[20.888,49.329],[20.416,49.431],[19.825,49.217],[19.321,49.572],[18.91,49.436],[18.853,49.496],[18.393,49.989],[17.649,50.049],[17.555,50.362],[16.869,50.474],[16.719,50.216],[16.176,50.423],[16.239,50.698],[15.491,50.785],[15.017,51.107]];
+  const CITIES = [
+    [21.01, 52.23, 1.0], [19.94, 50.06, 0.8], [19.46, 51.76, 0.7], [17.04, 51.11, 0.7], [16.93, 52.41, 0.6],
+    [18.65, 54.35, 0.7], [14.55, 53.43, 0.5], [19.02, 50.26, 0.9], [22.57, 51.25, 0.5], [23.16, 53.13, 0.5],
+    [22.0, 50.04, 0.4], [18.0, 53.12, 0.45], [20.49, 53.78, 0.35], [20.63, 50.87, 0.35], [17.93, 50.67, 0.3],
+    [15.51, 51.94, 0.3], [22.36, 53.83, 0.3], [18.6, 53.01, 0.3], [21.15, 51.4, 0.25], [16.17, 54.19, 0.25],
+  ];
+  const HUB = { lon: 21.01, lat: 52.23 };
+  const LINKED = [
+    [18.65, 54.35], [14.55, 53.43], [16.93, 52.41], [17.04, 51.11],
+    [19.46, 51.76], [19.94, 50.06], [22.57, 51.25], [23.16, 53.13],
+  ];
+  const STAGES = ["data", "features", "models", "API", "app"];
+  const ACCENT = "#2dd4bf", ICON = "#eafdf9";
+
+  const svg = document.getElementById("art");
+  const NS = "http://www.w3.org/2000/svg";
+  const node = (parent, name, attrs, text) => {
+    const n = document.createElementNS(NS, name);
+    for (const [k, v] of Object.entries(attrs)) n.setAttribute(k, v);
+    if (text) n.textContent = text;
+    parent.appendChild(n);
+    return n;
+  };
+
+  const defs = node(svg, "defs", {});
+  defs.innerHTML = `
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="${ACCENT}" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="${ACCENT}" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gridFade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0.46" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.58" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.6"/>
+    </linearGradient>
+    <mask id="gridMask"><rect width="1584" height="396" fill="url(#gridFade)"/></mask>
+    <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="610" y1="0" x2="790" y2="0">
+      <stop offset="0" stop-color="${ACCENT}" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="${ACCENT}" stop-opacity="0.9"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="${ACCENT}" fill-opacity="0.85"/>
+    </marker>`;
+
+  // Faint engineering grid on the right half.
+  const grid = node(svg, "g", { mask: "url(#gridMask)" });
+  for (let x = 0; x <= 1584; x += 24)
+    node(grid, "line", { x1: x, y1: 0, x2: x, y2: 396, stroke: "#9fe3d7", "stroke-opacity": x % 120 === 0 ? 0.05 : 0.022 });
+  for (let y = 0; y <= 396; y += 24)
+    node(grid, "line", { x1: 0, y1: y, x2: 1584, y2: y, stroke: "#9fe3d7", "stroke-opacity": y % 120 === 0 ? 0.05 : 0.022 });
+
+  // Map: equirectangular projection scaled for ~52°N.
+  const LON0 = 14.07, LAT0 = 54.86, K = 60, COS = Math.cos(52 * Math.PI / 180), X0 = 350, Y0 = 22;
+  const proj = (lon, lat) => [X0 + (lon - LON0) * COS * K, Y0 + (LAT0 - lat) * K];
+  const ring = POLAND.map(([lon, lat]) => proj(lon, lat));
+  const inside = (x, y) => {
+    let hit = false;
+    for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+      const [xi, yi] = ring[i], [xj, yj] = ring[j];
+      if ((yi > y) !== (yj > y) && x < ((xj - xi) * (y - yi)) / (yj - yi) + xi) hit = !hit;
+    }
+    return hit;
+  };
+  let seed = 52230;
+  const rand = () => ((seed = (seed * 1664525 + 1013904223) % 4294967296) / 4294967296);
+
+  // Faint silhouette and border, so the dots read as the map of Poland at small size.
+  const outline = "M " + ring.map(([x, y]) => `${x.toFixed(1)} ${y.toFixed(1)}`).join(" L ") + " Z";
+  node(svg, "path", { d: outline, fill: ACCENT, "fill-opacity": 0.035, stroke: "none" });
+
+  const STEP = 9.2, dots = node(svg, "g", {});
+  for (let row = 0, y = Y0 - 4; y < Y0 + 360; row++, y += STEP * 0.866) {
+    for (let x = X0 - 6 + (row % 2) * STEP / 2; x < X0 + 385; x += STEP) {
+      if (!inside(x, y)) continue;
+      let w = 0;
+      CITIES.forEach(([lon, lat, cw]) => {
+        const [cx, cy] = proj(lon, lat), d2 = (cx - x) ** 2 + (cy - y) ** 2;
+        w += cw * Math.exp(-d2 / (2 * 15 * 15));
+      });
+      const lit = rand() < 0.06 + w * 0.9, wc = Math.min(w, 1);
+      node(dots, "circle", lit
+        ? { cx: x, cy: y, r: 1.8 + wc * 1.3, fill: ACCENT, "fill-opacity": 0.6 + wc * 0.4 }
+        : { cx: x, cy: y, r: 1.6, fill: "#a3bfba", "fill-opacity": 0.36 });
+    }
+  }
+  node(svg, "path", { d: outline, fill: "none", stroke: ACCENT, "stroke-opacity": 0.32, "stroke-width": 1.3, "stroke-linejoin": "round" });
+
+  // Warsaw linked to the largest cities.
+  const [hx, hy] = proj(HUB.lon, HUB.lat);
+  LINKED.forEach(([lon, lat]) => {
+    const [x, y] = proj(lon, lat), dx = x - hx, dy = y - hy, bend = 0.12;
+    node(svg, "path", { d: `M ${hx} ${hy} Q ${(hx + x) / 2 - dy * bend} ${(hy + y) / 2 + dx * bend} ${x} ${y}`,
+      fill: "none", stroke: ACCENT, "stroke-opacity": 0.5, "stroke-width": 1.5, "stroke-dasharray": "4 6" });
+    node(svg, "circle", { cx: x, cy: y, r: 7, fill: "none", stroke: ACCENT, "stroke-opacity": 0.75, "stroke-width": 1.4 });
+    node(svg, "circle", { cx: x, cy: y, r: 3.1, fill: ICON });
+  });
+
+  // Pipeline row under the text.
+  const PY = 312, PX0 = 814, PGAP = 148, BOX = 48, S = 1.5;
+  const px = i => PX0 + i * PGAP;
+
+  // Flow from Warsaw into the first stage, with data particles along it.
+  const P = [[hx, hy], [hx + 120, hy], [px(0) - 80, PY], [px(0) - BOX / 2 - 6, PY]];
+  const bez = t => [0, 1].map(k => (1 - t) ** 3 * P[0][k] + 3 * (1 - t) ** 2 * t * P[1][k] + 3 * (1 - t) * t ** 2 * P[2][k] + t ** 3 * P[3][k]);
+  node(svg, "path", { d: `M ${P[0][0]} ${P[0][1]} C ${P[1][0]} ${P[1][1]}, ${P[2][0]} ${P[2][1]}, ${P[3][0]} ${P[3][1]}`,
+    fill: "none", stroke: "url(#flow)", "stroke-width": 2.2, "marker-end": "url(#arrow)" });
+  [0.22, 0.34, 0.46, 0.58, 0.7, 0.8, 0.89].forEach((t, i, all) => {
+    const [x, y] = bez(t), k = i / (all.length - 1);
+    node(svg, "circle", { cx: x, cy: y, r: 6.5 + k * 4, fill: "url(#halo)", opacity: 0.3 + k * 0.35 });
+    node(svg, "circle", { cx: x, cy: y, r: 2 + k * 1.6, fill: "#99f6e4", "fill-opacity": 0.45 + k * 0.55 });
+  });
+
+  // Links between stages; API and app talk both ways (request and response).
+  for (let i = 0; i < STAGES.length - 1; i++) {
+    const twoWay = STAGES[i] === "API";
+    node(svg, "line", Object.assign({ x1: px(i) + BOX / 2 + 4, y1: PY, x2: px(i + 1) - BOX / 2 - 6, y2: PY,
+      stroke: ACCENT, "stroke-opacity": 0.65, "stroke-width": 2.2, "marker-end": "url(#arrow)" },
+      twoWay ? { "marker-start": "url(#arrow)" } : {}));
+  }
+
+  // Monitoring loop: predictions go back to the data for back-testing, marked with a small chart.
+  const L = [[px(3), PY + BOX / 2 + 2], [px(3) - 45, PY + 46], [px(0) + 55, PY + 46], [px(0) + 5, PY + BOX / 2 + 4]];
+  node(svg, "path", { d: `M ${L[0][0]} ${L[0][1]} C ${L[1][0]} ${L[1][1]}, ${L[2][0]} ${L[2][1]}, ${L[3][0]} ${L[3][1]}`,
+    fill: "none", stroke: ACCENT, "stroke-opacity": 0.55, "stroke-width": 1.6, "stroke-dasharray": "5 7", "marker-end": "url(#arrow)" });
+  const mx = (L[0][0] + 3 * L[1][0] + 3 * L[2][0] + L[3][0]) / 8, my = (L[0][1] + 3 * L[1][1] + 3 * L[2][1] + L[3][1]) / 8;
+  node(svg, "circle", { cx: mx, cy: my, r: 15, fill: "#0f1517", stroke: ACCENT, "stroke-opacity": 0.85, "stroke-width": 1.5 });
+  node(svg, "polyline", { points: `${mx - 8},${my + 4} ${mx - 3},${my - 1.5} ${mx + 1},${my + 2.5} ${mx + 8},${my - 5.5}`,
+    fill: "none", stroke: ICON, "stroke-width": 1.9, "stroke-linecap": "round", "stroke-linejoin": "round" });
+
+  // Stage boxes with small icons (scaled by S).
+  const icons = {
+    data: (g, x, y) => {
+      const rx = 7.5 * S, ry = 2.8 * S, h = 6 * S;
+      node(g, "ellipse", { cx: x, cy: y - h, rx, ry, fill: "none", stroke: ICON, "stroke-width": 1.7 });
+      node(g, "path", { d: `M ${x - rx} ${y - h} V ${y + h} A ${rx} ${ry} 0 0 0 ${x + rx} ${y + h} V ${y - h}`, fill: "none", stroke: ICON, "stroke-width": 1.7 });
+      node(g, "path", { d: `M ${x - rx} ${y} A ${rx} ${ry} 0 0 0 ${x + rx} ${y}`, fill: "none", stroke: ICON, "stroke-width": 1.5, "stroke-opacity": 0.8 });
+    },
+    features: (g, x, y) => {
+      const op = [0.95, 0.45, 0.7, 0.35, 0.85, 0.5, 0.6, 0.9, 0.4], c = 5.2 * S, sz = 3.6 * S;
+      for (let r = 0; r < 3; r++)
+        for (let k = 0; k < 3; k++)
+          node(g, "rect", { x: x - c - sz / 2 + k * c, y: y - c - sz / 2 + r * c, width: sz, height: sz, rx: 1, fill: ICON, "fill-opacity": op[r * 3 + k] });
+    },
+    models: (g, x, y) => {
+      const root = [x, y - 6 * S], l = [x - 6.5 * S, y + 5.5 * S], r = [x + 6.5 * S, y + 5.5 * S];
+      [l, r].forEach(([cx, cy]) => node(g, "line", { x1: root[0], y1: root[1], x2: cx, y2: cy, stroke: ICON, "stroke-width": 1.7 }));
+      [root, l, r].forEach(([cx, cy]) => node(g, "circle", { cx, cy, r: 2.4 * S, fill: ICON }));
+    },
+    API: (g, x, y) => {
+      node(g, "text", { x, y: y + 7.5, "text-anchor": "middle", "font-family": "Consolas, monospace", "font-size": 22, "font-weight": 700, fill: ICON }, "{ }");
+    },
+    app: (g, x, y) => {
+      const w = 16 * S, h = 14 * S;
+      node(g, "rect", { x: x - w / 2, y: y - h / 2, width: w, height: h, rx: 2.5, fill: "none", stroke: ICON, "stroke-width": 1.7 });
+      node(g, "line", { x1: x - w / 2, y1: y - h / 2 + 5.5, x2: x + w / 2, y2: y - h / 2 + 5.5, stroke: ICON, "stroke-width": 1.5 });
+      node(g, "circle", { cx: x, cy: y + 3, r: 3.2, fill: ACCENT });
+    },
+  };
+  STAGES.forEach((name, i) => {
+    const x = px(i), g = node(svg, "g", {}), end = name === "app";
+    node(g, "circle", { cx: x, cy: PY, r: end ? 52 : 36, fill: "url(#halo)", opacity: end ? 0.65 : 0.32 });
+    node(g, "rect", { x: x - BOX / 2, y: PY - BOX / 2, width: BOX, height: BOX, rx: 11, fill: "#0f1517", stroke: ACCENT,
+      "stroke-opacity": end ? 1 : 0.9, "stroke-width": end ? 2.3 : 1.9 });
+    icons[name](g, x, PY);
+    node(g, "text", { x, y: PY - BOX / 2 - 13, "text-anchor": "middle", "font-family": "Consolas, monospace", "font-size": 22,
+      fill: "#dcefeb", "fill-opacity": end ? 1 : 0.95 }, name);
+  });
+
+  // Warsaw hub marker on top of everything.
+  node(svg, "circle", { cx: hx, cy: hy, r: 27, fill: "url(#halo)", opacity: 0.9 });
+  node(svg, "circle", { cx: hx, cy: hy, r: 12, fill: "none", stroke: ACCENT, "stroke-opacity": 0.95, "stroke-width": 1.6 });
+  node(svg, "circle", { cx: hx, cy: hy, r: 4.6, fill: ICON });
+</script>
+</body>
+</html>
