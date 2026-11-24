@@ -10,7 +10,7 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=dotnet" width="60"/> <img src="https://skillicons.dev/icons?i=cs" width="60"/> 
 <br/>
-<img src="https://skillicons.dev/icons?i=py" width="60"/> <img src="https://skillicons.dev/icons?i=django" width="60"/> <img src="https://skillicons.dev/icons?i=flask" width="60"/> <img src="https://skillicons.dev/icons?i=sklearn" width="60"/> <img src="https://skillicons.dev/icons?i=tensorflow" width="60"/> 
+<img src="https://skillicons.dev/icons?i=py" width="60"/> <img src="https://skillicons.dev/icons?i=django" width="60"/> <img src="https://skillicons.dev/icons?i=flask" width="60"/> <img src="https://skillicons.dev/icons?i=fastapi" width="60"/> <img src="https://skillicons.dev/icons?i=sklearn" width="60"/> <img src="https://skillicons.dev/icons?i=tensorflow" width="60"/> 
 <br/>
 <img src="https://skillicons.dev/icons?i=c" width="60"/> <img src="https://skillicons.dev/icons?i=cpp" width="60"/> <img src="https://skillicons.dev/icons?i=rust" width="60"/> <img src="https://skillicons.dev/icons?i=php" width="60"/> 
 <br/>
@@ -93,6 +93,8 @@ from GitHub.
 
 ### 📌 Featured Projects
 
+- **[miniOPs](https://github.com/UltiPro/miniops)** - lightweight MLOps CLI for training, versioning and deploying models locally, in Docker or on Google Cloud.  
+  <sub>Python · Polars · FastAPI · Docker · Google Cloud</sub>
 - **[Dobrze Tniemy](https://dobrzetniemy.pl/)** - commercial website and business card for a tree-felling company ([source](https://github.com/UltiPro/dobrzetniemy.pl)).  
   <sub>React 19 · TypeScript · Tailwind CSS 4 · Vite · GitHub Pages</sub>
 - **[Folderly](https://github.com/UltiPro/Folderly)** - self-hosted file storage with folder sharing.  
@@ -107,15 +109,15 @@ from GitHub.
 - HTML, CSS, Bootstrap, SCSS/SASS, Tailwind
 - JavaScript, jQuery, Axios, TypeScript, Angular, Vue, React
 - C# (.NET) - LINQ, EF Core, WPF, ASP.NET Core (Web API, MVC, Razor Pages)
-- Python - Django, Flask, SQLAlchemy, psycopg
-  - **Data Science & Machine Learning**: Scikit-Learn, LightGBM, TensorFlow, Pandas, Jupyter Notebook
+- Python - Django, Flask, FastAPI, SQLAlchemy, psycopg
+  - **Data Science & Machine Learning**: Scikit-Learn, LightGBM, TensorFlow, Pandas, Polars, GeoPandas, Jupyter Notebook
 - C/C++
 - Rust
 - PHP
 - SQL
 - Regex
 
-### 🎓 Fundamentals & Practices
+### 🧩 Fundamentals & Practices
 
 - Design Patterns, Clean Code
 - RESTful APIs (incl. HATEOAS)
